@@ -3127,7 +3127,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 27	1954	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0054757	Crazy Mixed Up Pup	tt0047959	Walter Lantz, Producer	Walter Lantz	nm0487237
 27	1954	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0054758	Pigs Is Pigs	tt0047353	Walt Disney, Producer	Walt Disney	nm0000370
 27	1954	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0054759	Sandy Claws	tt0048581	Edward Selzer, Producer	Edward Selzer	nm0783666
-27	1954	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0054760	Touché, Pussy Cat	tt0047600	Fred Quimby, Producer	Fred Quimby	nm0703642
+27	1954	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0054760	Touché Pussy Cat	tt0047600	Fred Quimby, Producer	Fred Quimby	nm0703642
 27	1954	Title	SHORT FILM (Animated)	SHORT SUBJECT (Cartoon)	an0054756	When Magoo Flew	tt0047672	Stephen Bosustow, Producer	Stephen Bosustow	nm0098322	True
 27	1954	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	an0054762	The First Piano Quartette	tt0046981	Otto Lang, Producer	Otto Lang	nm0485871
 27	1954	Title	SHORT SUBJECT (One-reel)	SHORT SUBJECT (One-reel)	an0054763	The Strauss Fantasy	tt0047531	Johnny Green, Producer	Johnny Green	nm0338004
@@ -4310,9 +4310,9 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 37	1964	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052442	The Chalk Garden	tt0057933	Dame Edith Evans	Dame Edith Evans	nm0262725		Mrs. St. Maugham
 37	1964	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052443	The Night of the Iguana	tt0058404	Grayson Hall	Grayson Hall	nm0355621		Judith Fellowes
 37	1964	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052440	Zorba the Greek	tt0057831	Lila Kedrova	Lila Kedrova	nm0444321	True	Madame Hortense
-37	1964	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052444	Hush...Hush, Sweet Charlotte	tt0058213	Agnes Moorehead	Agnes Moorehead	nm0001547		Velma Cruther
+37	1964	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052444	Hush... Hush Sweet Charlotte	tt0058213	Agnes Moorehead	Agnes Moorehead	nm0001547		Velma Cruther
 37	1964	Production	ART DIRECTION (Black-and-White)	ART DIRECTION (Black-and-White)	an0052471	The Americanization of Emily	tt0057840	Art Direction: George W. Davis, Hans Peters, Elliot Scott; Set Decoration: Henry Grace, Robert R. Benton	George W. Davis, Hans Peters, Elliot Scott, Henry Grace, Robert R. Benton	nm0204649,nm0676462,nm0779089,nm0333352,nm0072960
-37	1964	Production	ART DIRECTION (Black-and-White)	ART DIRECTION (Black-and-White)	an0052472	Hush...Hush, Sweet Charlotte	tt0058213	Art Direction: William Glasgow; Set Decoration: Raphael Bretton	William Glasgow, Raphael Bretton	nm0321881,nm0107987
+37	1964	Production	ART DIRECTION (Black-and-White)	ART DIRECTION (Black-and-White)	an0052472	Hush... Hush Sweet Charlotte	tt0058213	Art Direction: William Glasgow; Set Decoration: Raphael Bretton	William Glasgow, Raphael Bretton	nm0321881,nm0107987
 37	1964	Production	ART DIRECTION (Black-and-White)	ART DIRECTION (Black-and-White)	an0052473	The Night of the Iguana	tt0058404	Stephen Grimes	Stephen Grimes	nm0342242
 37	1964	Production	ART DIRECTION (Black-and-White)	ART DIRECTION (Black-and-White)	an0052474	Seven Days in May	tt0058576	Art Direction: Cary Odell; Set Decoration: Edward G. Boyle	Cary Odell, Edward G. Boyle	nm0643970,nm0102231
 37	1964	Production	ART DIRECTION (Black-and-White)	ART DIRECTION (Black-and-White)	an0052470	Zorba the Greek	tt0057831	Vassilis Fotopoulos	Vassilis Fotopoulos	nm0288193	True
@@ -4323,7 +4323,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 37	1964	Production	ART DIRECTION (Color)	ART DIRECTION (Color)	an0052479	What a Way to Go!	tt0058743	Art Direction: Jack Martin Smith, Ted Haworth; Set Decoration: Walter M. Scott, Stuart A. Reiss	Jack Martin Smith, Ted Haworth, Walter M. Scott, Stuart A. Reiss	nm0005584,nm0370385,nm0779898,nm0718524
 37	1964	Production	CINEMATOGRAPHY (Black-and-White)	CINEMATOGRAPHY (Black-and-White)	an0052461	The Americanization of Emily	tt0057840	Philip H. Lathrop	Philip H. Lathrop	nm0005769
 37	1964	Production	CINEMATOGRAPHY (Black-and-White)	CINEMATOGRAPHY (Black-and-White)	an0052462	Fate Is the Hunter	tt0058091	Milton Krasner	Milton Krasner	nm0005762
-37	1964	Production	CINEMATOGRAPHY (Black-and-White)	CINEMATOGRAPHY (Black-and-White)	an0052463	Hush...Hush, Sweet Charlotte	tt0058213	Joseph Biroc	Joseph Biroc	nm0005657
+37	1964	Production	CINEMATOGRAPHY (Black-and-White)	CINEMATOGRAPHY (Black-and-White)	an0052463	Hush... Hush Sweet Charlotte	tt0058213	Joseph Biroc	Joseph Biroc	nm0005657
 37	1964	Production	CINEMATOGRAPHY (Black-and-White)	CINEMATOGRAPHY (Black-and-White)	an0052464	The Night of the Iguana	tt0058404	Gabriel Figueroa	Gabriel Figueroa	nm0004195
 37	1964	Production	CINEMATOGRAPHY (Black-and-White)	CINEMATOGRAPHY (Black-and-White)	an0052460	Zorba the Greek	tt0057831	Walter Lassally	Walter Lassally	nm0007178	True
 37	1964	Production	CINEMATOGRAPHY (Color)	CINEMATOGRAPHY (Color)	an0052466	Becket	tt0057877	Geoffrey Unsworth	Geoffrey Unsworth	nm0005910
@@ -4332,7 +4332,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 37	1964	Production	CINEMATOGRAPHY (Color)	CINEMATOGRAPHY (Color)	an0052465	My Fair Lady	tt0058385	Harry Stradling	Harry Stradling	nm0005889	True
 37	1964	Production	CINEMATOGRAPHY (Color)	CINEMATOGRAPHY (Color)	an0052469	The Unsinkable Molly Brown	tt0058708	Daniel L. Fapp	Daniel L. Fapp	nm0005701
 37	1964	Production	COSTUME DESIGN (Black-and-White)	COSTUME DESIGN (Black-and-White)	an0052481	A House Is Not a Home	tt0058209	Edith Head	Edith Head	nm0372128
-37	1964	Production	COSTUME DESIGN (Black-and-White)	COSTUME DESIGN (Black-and-White)	an0052482	Hush...Hush, Sweet Charlotte	tt0058213	Norma Koch	Norma Koch	nm0462382
+37	1964	Production	COSTUME DESIGN (Black-and-White)	COSTUME DESIGN (Black-and-White)	an0052482	Hush... Hush Sweet Charlotte	tt0058213	Norma Koch	Norma Koch	nm0462382
 37	1964	Production	COSTUME DESIGN (Black-and-White)	COSTUME DESIGN (Black-and-White)	an0052483	Kisses for My President	tt0058266	Howard Shoup	Howard Shoup	nm0795251
 37	1964	Production	COSTUME DESIGN (Black-and-White)	COSTUME DESIGN (Black-and-White)	an0052480	The Night of the Iguana	tt0058404	Dorothy Jeakins	Dorothy Jeakins	nm0419820	True
 37	1964	Production	COSTUME DESIGN (Black-and-White)	COSTUME DESIGN (Black-and-White)	an0052484	The Visit	tt0058724	René Hubert	René Hubert	nm0399484
@@ -4358,7 +4358,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 37	1964	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	an0052530	140 Days under the World	tt0057806	Geoffrey Scott and Oxley Hughan, Producers	Geoffrey Scott, Oxley Hughan	nm0779180,nm0400419
 37	1964	Production	FILM EDITING	FILM EDITING	an0052496	Becket	tt0057877	Anne Coates	Anne Coates	nm0167613
 37	1964	Production	FILM EDITING	FILM EDITING	an0052497	Father Goose	tt0058092	Ted J. Kent	Ted J. Kent	nm0448867
-37	1964	Production	FILM EDITING	FILM EDITING	an0052498	Hush...Hush, Sweet Charlotte	tt0058213	Michael Luciano	Michael Luciano	nm0524597
+37	1964	Production	FILM EDITING	FILM EDITING	an0052498	Hush... Hush Sweet Charlotte	tt0058213	Michael Luciano	Michael Luciano	nm0524597
 37	1964	Production	FILM EDITING	FILM EDITING	an0052495	Mary Poppins	tt0058331	Cotton Warburton	Cotton Warburton	nm0911307	True
 37	1964	Production	FILM EDITING	FILM EDITING	an0052499	My Fair Lady	tt0058385	William Ziegler	William Ziegler	nm0956155
 37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052537	Raven's End	tt0057237	Sweden
@@ -4368,7 +4368,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 37	1964	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0052536	Yesterday, Today and Tomorrow	tt0057171	Italy			True
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052510	Becket	tt0057877	Laurence Rosenthal	Laurence Rosenthal	nm0002304
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052511	The Fall of the Roman Empire	tt0058085	Dimitri Tiomkin	Dimitri Tiomkin	nm0006323
-37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052512	Hush...Hush, Sweet Charlotte	tt0058213	Frank DeVol	Frank DeVol	nm0006030
+37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052512	Hush... Hush Sweet Charlotte	tt0058213	Frank DeVol	Frank DeVol	nm0006030
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052509	Mary Poppins	tt0058331	Richard M. Sherman, Robert B. Sherman	Richard M. Sherman, Robert B. Sherman	nm0792556,nm0792567	True
 37	1964	Music	MUSIC (Original Score)	MUSIC (Music Score--substantially original)	an0052513	The Pink Panther	tt0057413	Henry Mancini	Henry Mancini	nm0000049
 37	1964	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring of Music--adaptation or treatment)	an0052515	A Hard Day's Night	tt0058182	George Martin	George Martin	nm0552326
@@ -4378,7 +4378,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 37	1964	Music	MUSIC (Original Song Score or Adaptation Score)	MUSIC (Scoring of Music--adaptation or treatment)	an0052518	The Unsinkable Molly Brown	tt0058708	Robert Armbruster, Leo Arnaud, Jack Elliott, Jack Hayes, Calvin Jackson, Leo Shuken	Robert Armbruster, Leo Arnaud, Jack Elliott, Jack Hayes, Calvin Jackson, Leo Shuken	nm0035372,nm0036069,nm0254477,nm0369948,nm0413330,nm0795640
 37	1964	Music	MUSIC (Original Song)	MUSIC (Song)	an0052504	Mary Poppins	tt0058331	Music and Lyrics by Richard M. Sherman and Robert B. Sherman	Richard M. Sherman, Robert B. Sherman	nm0792556,nm0792567	True	Chim Chim Cher-ee
 37	1964	Music	MUSIC (Original Song)	MUSIC (Song)	an0052505	Dear Heart	tt0057999	Music by Henry Mancini; Lyrics by Jay Livingston and Ray Evans	Henry Mancini, Jay Livingston, Ray Evans	nm0000049,nm0515254,nm0263143		Dear Heart
-37	1964	Music	MUSIC (Original Song)	MUSIC (Song)	an0052506	Hush...Hush, Sweet Charlotte	tt0058213	Music by Frank DeVol; Lyrics by Mack David	Frank DeVol, Mack David	nm0006030,nm0202988		Hush...Hush, Sweet Charlotte
+37	1964	Music	MUSIC (Original Song)	MUSIC (Song)	an0052506	Hush... Hush Sweet Charlotte	tt0058213	Music by Frank DeVol; Lyrics by Mack David	Frank DeVol, Mack David	nm0006030,nm0202988		Hush... Hush Sweet Charlotte
 37	1964	Music	MUSIC (Original Song)	MUSIC (Song)	an0052507	Robin and the 7 Hoods	tt0058529	Music by James Van Heusen; Lyrics by Sammy Cahn	James Van Heusen, Sammy Cahn	nm0006329,nm0005991		My Kind Of Town
 37	1964	Music	MUSIC (Original Song)	MUSIC (Song)	an0052508	Where Love Has Gone	tt0058745	Music by James Van Heusen; Lyrics by Sammy Cahn	James Van Heusen, Sammy Cahn	nm0006329,nm0005991		Where Love Has Gone
 37	1964	Title	BEST PICTURE	BEST PICTURE	an0052421	Becket	tt0057877	Hal B. Wallis, Producer	Hal B. Wallis	nm0909259
@@ -6879,7 +6879,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 58	1985	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)					LARRY BARTON		True	Camera		To LARRY BARTON of Cinematography Electronics, Inc., for a Precision Speed Crystal-Controlled Device for motion picture photography.
 58	1985	SciTech	SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)	SCIENTIFIC OR TECHNICAL AWARD (Technical Achievement Award)	an0048539				ALAN LANDAKER	nm0484413	True	Camera		To ALAN LANDAKER of The Burbank Studios for the Mark III Camera Drive for motion picture photography.
 58	1985	Special	MEDAL OF COMMENDATION	MEDAL OF COMMENDATION					John H. Whitney		True			To John H. Whitney, Sr. for Cinematic Pioneering.
-59	1986	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0049148	'Round Midnight	tt0090557	Dexter Gordon	Dexter Gordon	nm0330143		Dale Turner
+59	1986	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0049148	Round Midnight	tt0090557	Dexter Gordon	Dexter Gordon	nm0330143		Dale Turner
 59	1986	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0049149	Mona Lisa	tt0091538	Bob Hoskins	Bob Hoskins	nm0001364		George
 59	1986	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0049150	Children of a Lesser God	tt0090830	William Hurt	William Hurt	nm0000458		James
 59	1986	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0049147	The Color of Money	tt0090863	Paul Newman	Paul Newman	nm0000056	True	Eddie Felson
@@ -6938,7 +6938,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049243	Betty Blue	tt0090563	France
 59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049244	The Decline of the American Empire	tt0090985	Canada
 59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049245	My Sweet Little Village	tt0090257	Czechoslovakia
-59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049246	'38'	tt0090554	Austria
+59	1986	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0049246	38 - Vienna Before the Fall	tt0090554	Austria
 59	1986	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049224	The Clan of the Cave Bear	tt0090848	Michael G. Westmore, Michèle Burke	Michael G. Westmore, Michèle Burke	nm0922878,nm0121807
 59	1986	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049223	The Fly	tt0091064	Chris Walas, Stephan Dupuis	Chris Walas, Stephan Dupuis	nm0906901,nm0243518	True
 59	1986	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0049225	Legend	tt0089469	Rob Bottin, Peter Robb-King	Rob Bottin, Peter Robb-King	nm0001964,nm0730228
@@ -6957,7 +6957,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 59	1986	Title	BEST PICTURE	BEST PICTURE	an0049145	The Mission	tt0091530	Fernando Ghia and David Puttnam, Producers	Fernando Ghia, David Puttnam	nm0315721,nm0701298
 59	1986	Title	BEST PICTURE	BEST PICTURE	an0049142	Platoon	tt0091763	Arnold Kopelson, Producer	Arnold Kopelson	nm0465745	True
 59	1986	Title	BEST PICTURE	BEST PICTURE	an0049146	A Room with a View	tt0091867	Ismail Merchant, Producer	Ismail Merchant	nm0580337
-59	1986	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0049227	The Frog, the Dog and the Devil	tt0091082	Bob Stenhouse, Producer	Bob Stenhouse	nm0826598
+59	1986	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0049227	The Frog the Dog and the Devil	tt0091082	Bob Stenhouse, Producer	Bob Stenhouse	nm0826598
 59	1986	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0049226	A Greek Tragedy	tt0091152	Linda Van Tulden and Willem Thijssen, Producers	Linda Van Tulden, Willem Thijssen	nm0888128,nm0858121	True
 59	1986	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0049228	Luxo Jr.	tt0091455	John Lasseter and William Reeves, Producers	John Lasseter, William Reeves	nm0005124,nm0716315
 59	1986	Title	SHORT FILM (Live Action)	SHORT FILM (Live Action)	an0049230	Exit	tt0091021	Stefano Reali and Pino Quartullo, Producers	Stefano Reali, Pino Quartullo	nm0714058,nm0702959
@@ -7057,7 +7057,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 60	1987	Production	FILM EDITING	FILM EDITING	an0050957	Fatal Attraction	tt0093010	Michael Kahn, Peter E. Berger	Michael Kahn, Peter E. Berger	nm0434883,nm0074318
 60	1987	Production	FILM EDITING	FILM EDITING	an0050954	The Last Emperor	tt0093389	Gabriella Cristiani	Gabriella Cristiani	nm0188098	True
 60	1987	Production	FILM EDITING	FILM EDITING	an0050958	RoboCop	tt0093870	Frank J. Urioste	Frank J. Urioste	nm0881973
-60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050990	Au Revoir Les Enfants (Goodbye, Children)	tt0092593	France
+60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050990	Au Revoir Les Enfants	tt0092593	France
 60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050989	Babette's Feast	tt0092603	Denmark			True
 60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050991	Course Completed	tt0092584	Spain
 60	1987	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0050992	The Family	tt0093004	Italy
@@ -7097,7 +7097,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 60	1987	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0050932	Full Metal Jacket	tt0093058	Stanley Kubrick, Michael Herr, Gustav Hasford	Stanley Kubrick, Michael Herr, Gustav Hasford	nm0000040,nm0380282,nm0368007
 60	1987	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0050929	The Last Emperor	tt0093389	Mark Peploe, Bernardo Bertolucci	Mark Peploe, Bernardo Bertolucci	nm0672546,nm0000934	True
 60	1987	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0050933	My Life as a Dog	tt0089606	Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund	Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund	nm0002120,nm0433653,nm0117530,nm0074719
-60	1987	Writing	WRITING (Original Screenplay)	WRITING (Screenplay Written Directly for the Screen)	an0050925	Au Revoir Les Enfants (Goodbye, Children)	tt0092593	Louis Malle	Louis Malle	nm0001501
+60	1987	Writing	WRITING (Original Screenplay)	WRITING (Screenplay Written Directly for the Screen)	an0050925	Au Revoir Les Enfants	tt0092593	Louis Malle	Louis Malle	nm0001501
 60	1987	Writing	WRITING (Original Screenplay)	WRITING (Screenplay Written Directly for the Screen)	an0050926	Broadcast News	tt0092699	James L. Brooks	James L. Brooks	nm0000985
 60	1987	Writing	WRITING (Original Screenplay)	WRITING (Screenplay Written Directly for the Screen)	an0050927	Hope and Glory	tt0093209	John Boorman	John Boorman	nm0000958
 60	1987	Writing	WRITING (Original Screenplay)	WRITING (Screenplay Written Directly for the Screen)	an0050924	Moonstruck	tt0093565	John Patrick Shanley	John Patrick Shanley	nm0788234	True
@@ -7258,8 +7258,8 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 62	1989	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0052720	The Fabulous Baker Boys	tt0097322	Michelle Pfeiffer	Michelle Pfeiffer	nm0000201		Susie Diamond
 62	1989	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0052716	Driving Miss Daisy	tt0097239	Jessica Tandy	Jessica Tandy	nm0001788	True	Daisy Werthan
 62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052726	My Left Foot	tt0097937	Brenda Fricker	Brenda Fricker	nm0002084	True	Mrs. Brown
-62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052727	Enemies, A Love Story	tt0097276	Anjelica Huston	Anjelica Huston	nm0001378		Tamara
-62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052728	Enemies, A Love Story	tt0097276	Lena Olin	Lena Olin	nm0000565		Masha
+62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052727	Enemies A Love Story	tt0097276	Anjelica Huston	Anjelica Huston	nm0001378		Tamara
+62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052728	Enemies A Love Story	tt0097276	Lena Olin	Lena Olin	nm0000565		Masha
 62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052729	Steel Magnolias	tt0098384	Julia Roberts	Julia Roberts	nm0000210		Shelby Eatenton
 62	1989	Acting	ACTRESS IN A SUPPORTING ROLE	ACTRESS IN A SUPPORTING ROLE	an0052730	Parenthood	tt0098067	Dianne Wiest	Dianne Wiest	nm0001848		Helen
 62	1989	Production	ART DIRECTION	ART DIRECTION	an0052752	The Abyss	tt0096754	Art Direction: Leslie Dilley; Set Decoration: Anne Kuljian	Leslie Dilley, Anne Kuljian	nm0226896,nm0474600
@@ -7337,7 +7337,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 62	1989	Production	VISUAL EFFECTS	VISUAL EFFECTS	an0052776	Back to the Future Part II	tt0096874	Ken Ralston, Michael Lantieri, John Bell, Steve Gawley	Ken Ralston, Michael Lantieri, John Bell, Steve Gawley	nm0707822,nm0487177,nm0068290,nm0310697
 62	1989	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0052742	Born on the Fourth of July	tt0096969	Oliver Stone, Ron Kovic	Oliver Stone, Ron Kovic	nm0000231,nm0468407
 62	1989	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0052741	Driving Miss Daisy	tt0097239	Alfred Uhry	Alfred Uhry	nm0880261	True
-62	1989	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0052743	Enemies, A Love Story	tt0097276	Roger L. Simon, Paul Mazursky	Roger L. Simon, Paul Mazursky	nm0800363,nm0005196
+62	1989	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0052743	Enemies A Love Story	tt0097276	Roger L. Simon, Paul Mazursky	Roger L. Simon, Paul Mazursky	nm0800363,nm0005196
 62	1989	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0052744	Field of Dreams	tt0097351	Phil Alden Robinson	Phil Alden Robinson	nm0004675
 62	1989	Writing	WRITING (Adapted Screenplay)	WRITING (Screenplay Based on Material from Another Medium)	an0052745	My Left Foot	tt0097937	Jim Sheridan, Shane Connaughton	Jim Sheridan, Shane Connaughton	nm0006487,nm0174934
 62	1989	Writing	WRITING (Original Screenplay)	WRITING (Screenplay Written Directly for the Screen)	an0052737	Crimes and Misdemeanors	tt0097123	Woody Allen	Woody Allen	nm0000095
@@ -7362,7 +7362,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 63	1990	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0053081	The Field	tt0099566	Richard Harris	Richard Harris	nm0001321		Bull McCabe
 63	1990	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0053077	Reversal of Fortune	tt0100486	Jeremy Irons	Jeremy Irons	nm0000460	True	Claus Von Bulow
 63	1990	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0053088	Longtime Companion	tt0100049	Bruce Davison	Bruce Davison	nm0001117		David
-63	1990	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0053089	The Godfather, Part III	tt0099674	Andy Garcia	Andy Garcia	nm0000412		Vincent Mancini
+63	1990	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0053089	The Godfather Part III	tt0099674	Andy Garcia	Andy Garcia	nm0000412		Vincent Mancini
 63	1990	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0053090	Dances With Wolves	tt0099348	Graham Greene	Graham Greene	nm0001295		Kicking Bird
 63	1990	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0053091	Dick Tracy	tt0099422	Al Pacino	Al Pacino	nm0000199		Big Boy Caprice
 63	1990	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0053087	Good Fellas	tt0099685	Joe Pesci	Joe Pesci	nm0000582	True	Tommy DeVito
@@ -7379,12 +7379,12 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 63	1990	Production	ART DIRECTION	ART DIRECTION	an0053118	Cyrano de Bergerac	tt0099334	Art Direction: Ezio Frigerio; Set Decoration: Jacques Rouxel	Ezio Frigerio, Jacques Rouxel	nm0295702,nm0746232
 63	1990	Production	ART DIRECTION	ART DIRECTION	an0053119	Dances With Wolves	tt0099348	Art Direction: Jeffrey Beecroft; Set Decoration: Lisa Dean	Jeffrey Beecroft, Lisa Dean	nm0066360,nm0212856
 63	1990	Production	ART DIRECTION	ART DIRECTION	an0053117	Dick Tracy	tt0099422	Art Direction: Richard Sylbert; Set Decoration: Rick Simpson	Richard Sylbert, Rick Simpson	nm0843129,nm0801173	True
-63	1990	Production	ART DIRECTION	ART DIRECTION	an0053120	The Godfather, Part III	tt0099674	Art Direction: Dean Tavoularis; Set Decoration: Gary Fettis	Dean Tavoularis, Gary Fettis	nm0851790,nm0275361
+63	1990	Production	ART DIRECTION	ART DIRECTION	an0053120	The Godfather Part III	tt0099674	Art Direction: Dean Tavoularis; Set Decoration: Gary Fettis	Dean Tavoularis, Gary Fettis	nm0851790,nm0275361
 63	1990	Production	ART DIRECTION	ART DIRECTION	an0053121	Hamlet	tt0099726	Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo	Dante Ferretti, Francesca Lo Schiavo	nm0274721,nm0521302
 63	1990	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0053113	Avalon	tt0099073	Allen Daviau	Allen Daviau	nm0005679
 63	1990	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0053112	Dances With Wolves	tt0099348	Dean Semler	Dean Semler	nm0005871	True
 63	1990	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0053114	Dick Tracy	tt0099422	Vittorio Storaro	Vittorio Storaro	nm0005886
-63	1990	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0053115	The Godfather, Part III	tt0099674	Gordon Willis	Gordon Willis	nm0932336
+63	1990	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0053115	The Godfather Part III	tt0099674	Gordon Willis	Gordon Willis	nm0932336
 63	1990	Production	CINEMATOGRAPHY	CINEMATOGRAPHY	an0053116	Henry & June	tt0099762	Philippe Rousselot	Philippe Rousselot	nm0003542
 63	1990	Production	COSTUME DESIGN	COSTUME DESIGN	an0053123	Avalon	tt0099073	Gloria Gresham	Gloria Gresham	nm0340336
 63	1990	Production	COSTUME DESIGN	COSTUME DESIGN	an0053122	Cyrano de Bergerac	tt0099334	Franca Squarciapino	Franca Squarciapino	nm0820037	True
@@ -7392,7 +7392,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 63	1990	Production	COSTUME DESIGN	COSTUME DESIGN	an0053125	Dick Tracy	tt0099422	Milena Canonero	Milena Canonero	nm0134382
 63	1990	Production	COSTUME DESIGN	COSTUME DESIGN	an0053126	Hamlet	tt0099726	Maurizio Millenotti	Maurizio Millenotti	nm0587818
 63	1990	Directing	DIRECTING	DIRECTING	an0053097	Dances With Wolves	tt0099348	Kevin Costner	Kevin Costner	nm0000126	True
-63	1990	Directing	DIRECTING	DIRECTING	an0053098	The Godfather, Part III	tt0099674	Francis Ford Coppola	Francis Ford Coppola	nm0000338
+63	1990	Directing	DIRECTING	DIRECTING	an0053098	The Godfather Part III	tt0099674	Francis Ford Coppola	Francis Ford Coppola	nm0000338
 63	1990	Directing	DIRECTING	DIRECTING	an0053101	Good Fellas	tt0099685	Martin Scorsese	Martin Scorsese	nm0000217
 63	1990	Directing	DIRECTING	DIRECTING	an0053099	The Grifters	tt0099703	Stephen Frears	Stephen Frears	nm0001241
 63	1990	Directing	DIRECTING	DIRECTING	an0053100	Reversal of Fortune	tt0100486	Barbet Schroeder	Barbet Schroeder	nm0775447
@@ -7408,7 +7408,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 63	1990	Title	DOCUMENTARY (Short Subject)	DOCUMENTARY (Short Subject)	an0053165	Rose Kennedy: A Life to Remember	tt0100517	Freida Lee Mock and Terry Sanders, Producers	Freida Lee Mock, Terry Sanders	nm0595131,nm0761739
 63	1990	Production	FILM EDITING	FILM EDITING	an0053132	Dances With Wolves	tt0099348	Neil Travis	Neil Travis	nm0871423	True
 63	1990	Production	FILM EDITING	FILM EDITING	an0053133	Ghost	tt0099653	Walter Murch	Walter Murch	nm0004555
-63	1990	Production	FILM EDITING	FILM EDITING	an0053134	The Godfather, Part III	tt0099674	Barry Malkin, Lisa Fruchtman, Walter Murch	Barry Malkin, Lisa Fruchtman, Walter Murch	nm0539794,nm0296636,nm0004555
+63	1990	Production	FILM EDITING	FILM EDITING	an0053134	The Godfather Part III	tt0099674	Barry Malkin, Lisa Fruchtman, Walter Murch	Barry Malkin, Lisa Fruchtman, Walter Murch	nm0539794,nm0296636,nm0004555
 63	1990	Production	FILM EDITING	FILM EDITING	an0053135	Good Fellas	tt0099685	Thelma Schoonmaker	Thelma Schoonmaker	nm0774817
 63	1990	Production	FILM EDITING	FILM EDITING	an0053136	The Hunt for Red October	tt0099810	Dennis Virkler, John Wright	Dennis Virkler, John Wright	nm0899398,nm0942510
 63	1990	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347210	Cyrano de Bergerac	tt0099334	France
@@ -7426,13 +7426,13 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 63	1990	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0053152	Home Alone	tt0099785	John Williams	John Williams	nm0002354
 63	1990	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0053144	Young Guns II	tt0100994	Music and Lyric by Jon Bon Jovi	Jon Bon Jovi	nm0000954		Blaze Of Glory
 63	1990	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0053145	Postcards from the Edge	tt0100395	Music and Lyric by Shel Silverstein	Shel Silverstein	nm0799060		I'm Checkin' Out
-63	1990	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0053146	The Godfather, Part III	tt0099674	Music by Carmine Coppola; Lyric by John Bettis	Carmine Coppola, John Bettis	nm0178874,nm0079376		Promise Me You'll Remember
+63	1990	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0053146	The Godfather Part III	tt0099674	Music by Carmine Coppola; Lyric by John Bettis	Carmine Coppola, John Bettis	nm0178874,nm0079376		Promise Me You'll Remember
 63	1990	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0053147	Home Alone	tt0099785	Music by John Williams; Lyric by Leslie Bricusse	John Williams, Leslie Bricusse	nm0002354,nm0108634		Somewhere In My Memory
 63	1990	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0053143	Dick Tracy	tt0099422	Music and Lyric by Stephen Sondheim	Stephen Sondheim	nm0814227	True	Sooner Or Later (I Always Get My Man)
 63	1990	Title	BEST PICTURE	BEST PICTURE	an0053073	Awakenings	tt0099077	Walter F. Parkes and Lawrence Lasker, Producers	Walter F. Parkes, Lawrence Lasker	nm0662748,nm0489623
 63	1990	Title	BEST PICTURE	BEST PICTURE	an0053072	Dances With Wolves	tt0099348	Jim Wilson and Kevin Costner, Producers	Jim Wilson, Kevin Costner	nm0933604,nm0000126	True
 63	1990	Title	BEST PICTURE	BEST PICTURE	an0053074	Ghost	tt0099653	Lisa Weinstein, Producer	Lisa Weinstein	nm0918456
-63	1990	Title	BEST PICTURE	BEST PICTURE	an0053075	The Godfather, Part III	tt0099674	Francis Ford Coppola, Producer	Francis Ford Coppola	nm0000338
+63	1990	Title	BEST PICTURE	BEST PICTURE	an0053075	The Godfather Part III	tt0099674	Francis Ford Coppola, Producer	Francis Ford Coppola	nm0000338
 63	1990	Title	BEST PICTURE	BEST PICTURE	an0053076	Good Fellas	tt0099685	Irwin Winkler, Producer	Irwin Winkler	nm0005563
 63	1990	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0053153	Creature Comforts	tt0099317	Nick Park	Nick Park	nm0661910	True
 63	1990	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0053154	A Grand Day Out	tt0104361	Nick Park	Nick Park	nm0661910
@@ -9639,7 +9639,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347053	Beaufort	tt0758732	Israel
 80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347052	The Counterfeiters	tt0813547	Austria			True
 80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347055	Katyn	tt0879843	Poland
-80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347054	Mongol	tt0416044	Kazakhstan
+80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347054	Mongol: The Rise of Genghis Khan	tt0416044	Kazakhstan
 80	2007	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0347056	12	tt0488478	Russia
 80	2007	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052367	La Vie en Rose	tt0450188	Didier Lavergne and Jan Archibald	Didier Lavergne, Jan Archibald	nm0491918,nm0033767	True
 80	2007	Production	MAKEUP AND HAIRSTYLING	MAKEUP	an0052368	Norbit	tt0477051	Rick Baker and Kazuhiro Tsuji	Rick Baker, Kazuhiro Tsuji	nm0000711,nm0875308
@@ -10053,7 +10053,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 83	2010	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0310861	The Gruffalo	tt1461418	Jakob Schuh and Max Lang	Jakob Schuh, Max Lang	nm2104164,nm3495071
 83	2010	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0310862	Let's Pollute	tt1470652	Geefwee Boedoe	Geefwee Boedoe	nm0091161
 83	2010	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0310863	The Lost Thing	tt1669698	Shaun Tan and Andrew Ruhemann	Shaun Tan, Andrew Ruhemann	nm1316810,nm0749509	True
-83	2010	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0310864	Madagascar, carnet de voyage (Madagascar, a Journey Diary)	tt1590114	Bastien Dubois	Bastien Dubois	nm3777126
+83	2010	Title	SHORT FILM (Animated)	SHORT FILM (Animated)	an0310864	Madagascar a Journey Diary	tt1590114	Bastien Dubois	Bastien Dubois	nm3777126
 83	2010	Title	SHORT FILM (Live Action)	SHORT FILM (Live Action)	an0310865	The Confession	tt1687903	Tanel Toom	Tanel Toom	nm1823803
 83	2010	Title	SHORT FILM (Live Action)	SHORT FILM (Live Action)	an0310866	The Crush	tt1509756	Michael Creagh	Michael Creagh	nm1739260
 83	2010	Title	SHORT FILM (Live Action)	SHORT FILM (Live Action)	an0310867	God of Love	tt1631323	Luke Matheny	Luke Matheny	nm1487468	True
@@ -10946,12 +10946,12 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 90	2017	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0943550	Darkest Hour	tt4555426	Gary Oldman	Gary Oldman	nm0000198	True	Winston Churchill
 90	2017	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an0943551	Roman J. Israel, Esq.	tt6000478	Denzel Washington	Denzel Washington	nm0000243		Roman J. Israel, Esq.
 90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0908193	The Florida Project	tt5649144	Willem Dafoe	Willem Dafoe	nm0000353		Bobby
-90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0943570	Three Billboards outside Ebbing, Missouri	tt5027774	Woody Harrelson	Woody Harrelson	nm0000437		Willoughby
+90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0943570	Three Billboards outside Ebbing	tt5027774	Woody Harrelson	Woody Harrelson	nm0000437		Willoughby
 90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0943563	The Shape of Water	tt5580390	Richard Jenkins	Richard Jenkins	nm0420955		Giles
 90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0943566	All the Money in the World	tt5294550	Christopher Plummer	Christopher Plummer	nm0001626		J. Paul Getty
-90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0943567	Three Billboards outside Ebbing, Missouri	tt5027774	Sam Rockwell	Sam Rockwell	nm0005377	True	Dixon
+90	2017	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an0943567	Three Billboards outside Ebbing	tt5027774	Sam Rockwell	Sam Rockwell	nm0005377	True	Dixon
 90	2017	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0943538	The Shape of Water	tt5580390	Sally Hawkins	Sally Hawkins	nm1020089		Elisa Esposito
-90	2017	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0943539	Three Billboards outside Ebbing, Missouri	tt5027774	Frances McDormand	Frances McDormand	nm0000531	True	Mildred
+90	2017	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0943539	Three Billboards outside Ebbing	tt5027774	Frances McDormand	Frances McDormand	nm0000531	True	Mildred
 90	2017	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0943540	I, Tonya	tt5580036	Margot Robbie	Margot Robbie	nm3053338		Tonya Harding
 90	2017	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0943541	Lady Bird	tt4925292	Saoirse Ronan	Saoirse Ronan	nm1519680		Lady Bird McPherson
 90	2017	Acting	ACTRESS IN A LEADING ROLE	ACTRESS IN A LEADING ROLE	an0943542	The Post	tt6294822	Meryl Streep	Meryl Streep	nm0000658		Kay Graham
@@ -10994,7 +10994,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 90	2017	Production	FILM EDITING	FILM EDITING	an0908200	Dunkirk	tt5013056	Lee Smith	Lee Smith	nm0809059	True
 90	2017	Production	FILM EDITING	FILM EDITING	an0951725	I, Tonya	tt5580036	Tatiana S. Riegel	Tatiana S. Riegel	nm0726186
 90	2017	Production	FILM EDITING	FILM EDITING	an0951720	The Shape of Water	tt5580390	Sidney Wolinsky	Sidney Wolinsky	nm0938485
-90	2017	Production	FILM EDITING	FILM EDITING	an0951721	Three Billboards outside Ebbing, Missouri	tt5027774	Jon Gregory	Jon Gregory	nm0339856
+90	2017	Production	FILM EDITING	FILM EDITING	an0951721	Three Billboards outside Ebbing	tt5027774	Jon Gregory	Jon Gregory	nm0339856
 90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0908198	A Fantastic Woman	tt5639354	Chile			True
 90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934608	The Insult	tt7048622	Lebanon
 90	2017	Title	INTERNATIONAL FEATURE FILM	FOREIGN LANGUAGE FILM	an0934609	Loveless	tt6304162	Russia
@@ -11007,7 +11007,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 90	2017	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0943585	Phantom Thread	tt5776858	Jonny Greenwood	Jonny Greenwood	nm0339351
 90	2017	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0943587	The Shape of Water	tt5580390	Alexandre Desplat	Alexandre Desplat	nm0006035	True
 90	2017	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0943584	Star Wars: The Last Jedi	tt2527336	John Williams	John Williams	nm0002354
-90	2017	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0943589	Three Billboards outside Ebbing, Missouri	tt5027774	Carter Burwell	Carter Burwell	nm0001980
+90	2017	Music	MUSIC (Original Score)	MUSIC (Original Score)	an0943589	Three Billboards outside Ebbing	tt5027774	Carter Burwell	Carter Burwell	nm0001980
 90	2017	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0948106	Mudbound	tt2396589	Music and Lyric by Mary J. Blige, Raphael Saadiq and Taura Stinson	Mary J. Blige, Raphael Saadiq, Taura Stinson	nm0004763,nm1277289,nm5921476		Mighty River
 90	2017	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0948117	Call Me by Your Name	tt5726616	Music and Lyric by Sufjan Stevens	Sufjan Stevens	nm2014294		Mystery Of Love
 90	2017	Music	MUSIC (Original Song)	MUSIC (Original Song)	an0948091	Coco	tt2380307	Music and Lyric by Kristen Anderson-Lopez and Robert Lopez	Kristen Anderson-Lopez, Robert Lopez	nm2844448,nm0520188	True	Remember Me
@@ -11021,7 +11021,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 90	2017	Title	BEST PICTURE	BEST PICTURE	an0954571	Phantom Thread	tt5776858	JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and Daniel Lupi, Producers	JoAnne Sellar, Paul Thomas Anderson, Megan Ellison, Daniel Lupi	nm0783280,nm0000759,nm2691892,nm0526917
 90	2017	Title	BEST PICTURE	BEST PICTURE	an0943526	The Post	tt6294822	Amy Pascal, Steven Spielberg and Kristie Macosko Krieger, Producers	Amy Pascal, Steven Spielberg, Kristie Macosko Krieger	nm1166871,nm0000229,nm1069736
 90	2017	Title	BEST PICTURE	BEST PICTURE	an0943528	The Shape of Water	tt5580390	Guillermo del Toro and J. Miles Dale, Producers	Guillermo del Toro, J. Miles Dale	nm0868219,nm0197703	True
-90	2017	Title	BEST PICTURE	BEST PICTURE	an0943527	Three Billboards outside Ebbing, Missouri	tt5027774	Graham Broadbent, Pete Czernin and Martin McDonagh, Producers	Graham Broadbent, Pete Czernin, Martin McDonagh	nm0110357,nm0194446,nm1732981
+90	2017	Title	BEST PICTURE	BEST PICTURE	an0943527	Three Billboards outside Ebbing	tt5027774	Graham Broadbent, Pete Czernin and Martin McDonagh, Producers	Graham Broadbent, Pete Czernin, Martin McDonagh	nm0110357,nm0194446,nm1732981
 90	2017	Production	ART DIRECTION	PRODUCTION DESIGN	an0954559	Beauty and the Beast	tt2771200	Production Design: Sarah Greenwood; Set Decoration: Katie Spencer	Sarah Greenwood, Katie Spencer	nm0339391,nm0818005
 90	2017	Production	ART DIRECTION	PRODUCTION DESIGN	an0954557	Blade Runner 2049	tt1856101	Production Design: Dennis Gassner; Set Decoration: Alessandra Querzola	Dennis Gassner, Alessandra Querzola	nm0309357,nm0703301
 90	2017	Production	ART DIRECTION	PRODUCTION DESIGN	an0954558	Darkest Hour	tt4555426	Production Design: Sarah Greenwood; Set Decoration: Katie Spencer	Sarah Greenwood, Katie Spencer	nm0339391,nm0818005
@@ -11061,7 +11061,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 90	2017	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an0943613	Get Out	tt5052448	Written by Jordan Peele	Jordan Peele	nm1443502	True
 90	2017	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an0943612	Lady Bird	tt4925292	Written by Greta Gerwig	Greta Gerwig	nm1950086
 90	2017	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an0943614	The Shape of Water	tt5580390	Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro	Guillermo del Toro, Vanessa Taylor	nm0868219,nm0961827
-90	2017	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an0943616	Three Billboards outside Ebbing, Missouri	tt5027774	Written by Martin McDonagh	Martin McDonagh	nm1732981
+90	2017	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an0943616	Three Billboards outside Ebbing	tt5027774	Written by Martin McDonagh	Martin McDonagh	nm1732981
 90	2017	Special	SPECIAL AWARD	SPECIAL AWARD	an0921759	CARNE y ARENA	tt6212516		Alejandro G. Iñárritu	nm0327944	True			To Alejandro G. Iñárritu's CARNE y ARENA virtual reality installation, in recognition of a visionary and powerful experience in storytelling.
 90	2017	Special	HONORARY AWARD	HONORARY AWARD	an0917432				Charles Burnett	nm0122344	True			To Charles Burnett, a resolutely independent and influential film pioneer who has chronicled the lives of black Americans with eloquence and insight.
 90	2017	Special	HONORARY AWARD	HONORARY AWARD	an0917431				Owen Roizman	nm0005845	True			To Owen Roizman, whose expansive visual style and technical innovation have advanced the art of cinematography.
@@ -11470,7 +11470,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 93	2020	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	an1478576	The Father	tt10272386	Screenplay by Christopher Hampton and Florian Zeller	Christopher Hampton, Florian Zeller	nm0358960,nm1725469	True
 93	2020	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	an1478570	Nomadland	tt9770150	Written for the screen by Chloé Zhao	Chloé Zhao	nm2125482
 93	2020	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	an1478574	One Night in Miami...	tt10612922	Screenplay by Kemp Powers	Kemp Powers	nm5358492
-93	2020	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	an1482195	The White Tiger	tt6571548	Written for the screen by Ramin Bahrani	Ramin Bahrani	nm1023919
+93	2020	Writing	WRITING (Adapted Screenplay)	WRITING (Adapted Screenplay)	an1482195	Leopard Head Lin Chong 1: The White Tiger Hall	tt6571548	Written for the screen by Ramin Bahrani	Ramin Bahrani	nm1023919
 93	2020	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an1482196	Judas and the Black Messiah	tt9784798	Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas	Will Berson, Shaka King, Kenny Lucas, Keith Lucas	nm0077768,nm3489851,nm3584219,nm5695570
 93	2020	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an1478568	Minari	tt10633456	Written by Lee Isaac Chung	Lee Isaac Chung	nm1818032
 93	2020	Writing	WRITING (Original Screenplay)	WRITING (Original Screenplay)	an1478561	Promising Young Woman	tt9620292	Written by Emerald Fennell	Emerald Fennell	nm2193504	True
@@ -11480,7 +11480,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 93	2020	Special	JEAN HERSHOLT HUMANITARIAN AWARD	JEAN HERSHOLT HUMANITARIAN AWARD	an1480730			Tyler Perry	Tyler Perry	nm1347153	True
 94	2021	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an1638372	Being the Ricardos	tt4995540	Javier Bardem	Javier Bardem	nm0000849		Desi Arnaz
 94	2021	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an1638369	The Power of the Dog	tt10293406	Benedict Cumberbatch	Benedict Cumberbatch	nm1212722		Phil Burbank
-94	2021	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an1638371	tick, tick...BOOM!	tt8721424	Andrew Garfield	Andrew Garfield	nm1940449		Jon
+94	2021	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an1638371	tick tick...BOOM!	tt8721424	Andrew Garfield	Andrew Garfield	nm1940449		Jon
 94	2021	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an1636310	King Richard	tt9620288	Will Smith	Will Smith	nm0000226	True	Richard Williams
 94	2021	Acting	ACTOR IN A LEADING ROLE	ACTOR IN A LEADING ROLE	an1638370	The Tragedy of Macbeth	tt10095582	Denzel Washington	Denzel Washington	nm0000243		Macbeth
 94	2021	Acting	ACTOR IN A SUPPORTING ROLE	ACTOR IN A SUPPORTING ROLE	an1638361	Belfast	tt12789558	Ciarán Hinds	Ciarán Hinds	nm0001354		Pop
@@ -11658,7 +11658,7 @@ Ceremony	Year	Class	CanonicalCategory	Category	NomId	Film	FilmId	Name	Nominees	N
 95	2022	Production	FILM EDITING	FILM EDITING	an1829479	Tár	tt14444726	Monika Willi	Monika Willi	nm0929889
 95	2022	Production	FILM EDITING	FILM EDITING	an1819938	Top Gun: Maverick	tt1745960	Eddie Hamilton	Eddie Hamilton	nm0357835
 95	2022	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1820034	All Quiet on the Western Front	tt1016150	Germany			True
-95	2022	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1820024	Argentina, 1985	tt15301048	Argentina
+95	2022	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1820024	Argentina 1985	tt15301048	Argentina
 95	2022	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1820028	Close	tt9660502	Belgium
 95	2022	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1820043	EO	tt19652910	Poland
 95	2022	Title	INTERNATIONAL FEATURE FILM	INTERNATIONAL FEATURE FILM	an1820036	The Quiet Girl	tt15109082	Ireland

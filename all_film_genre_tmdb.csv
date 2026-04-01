@@ -6,7 +6,7 @@ The Way of All Flesh,1927,Drama
 A Ship Comes In,1928,Drama
 7th Heaven,1927,Drama
 Street Angel,1928,Drama
-Sunrise: A Song of Two Humans,1927,Drama
+Sunrise,1927,Drama
 Sadie Thompson,1928,Drama
 The Racket,1928,Crime
 Wings,1927,Drama
@@ -26,9 +26,9 @@ The Letter,1929,Drama
 The Divine Lady,1928,Drama
 The Broadway Melody,1929,Music
 Coquette,1929,Drama
-The Drag Net,1928,Crime
+Drag,1928,Crime
 Weary River,1929,Drama
-The Hollywood Revue of 1929,1929,Comedy
+Hollywood Revue,1929,Comedy
 The Cop,1928,Drama
 The Leatherneck,1929,War
 Sal of Singapore,1928,Drama
@@ -43,12 +43,12 @@ The Big House,1930,Crime
 The Big Pond,1930,Romance
 The Love Parade,1930,Comedy
 Bulldog Drummond,1929,Action
-Condemned!,1929,Action
+Condemned,1929,Action
 The Rogue Song,1930,Music
 The Devil's Holiday,1930,Drama
 Sarah and Son,1930,Drama
 Anna Christie,1930,Drama
-Romance of the Rio Grande,1929,Western
+Romance,1929,Drama
 The Divorcee,1930,Drama
 Their Own Desire,1929,Drama
 The Trespasser,1929,Drama
@@ -79,13 +79,14 @@ Helping Grandma,1931,Comedy
 The Sin of Madelon Claudet,1931,Drama
 Bad Girl,1931,Romance
 Shanghai Express,1932,Drama
+Emma,1932,Drama
 Arrowsmith,1931,Drama
 Five Star Final,1931,Crime
-One Night at the Grand Hotel,1931,Drama
+Grand Hotel,1931,Drama
 One Hour with You,1932,Comedy
 The Smiling Lieutenant,1931,Comedy
 Flowers and Trees,1932,Animation
-It's Got Me Again!,1932,Animation
+It's Got Me Again,1932,Animation
 Mickey's Orphans,1931,Animation
 Lady and Gent,1932,Drama
 The Star Witness,1931,Crime
@@ -104,7 +105,7 @@ Smilin' Through,1932,Drama
 State Fair,1933,Comedy
 Building a Building,1933,Animation
 The Merry Old Soul,1933,Animation
-Three Little Pigs,1933,Music
+The Three Little Pigs,1933,Music
 One Way Passage,1932,Romance
 The Prizefighter and the Lady,1933,Romance
 Rasputin and the Empress,1932,Drama
@@ -141,7 +142,7 @@ Captain Blood,1935,Adventure
 The Lives of a Bengal Lancer,1935,Adventure
 Broadway Melody of 1936,1935,Music
 David Copperfield,1935,Drama
-Les Misérables,1935,Drama
+Les Miserables,1935,Drama
 A Midsummer Night's Dream,1935,Fantasy
 Naughty Marietta,1935,Music
 Ruggles of Red Gap,1935,Comedy
@@ -149,7 +150,7 @@ Top Hat,1935,Music
 The Calico Dragon,1935,Animation
 Three Orphan Kittens,1935,Animation
 Who Killed Cock Robin?,1935,Family
-G' Men,1935,Crime
+G-Men,1935,Crime
 The Gay Deception,1935,Comedy
 The Scoundrel,1935,Drama
 Mr. Deeds Goes to Town,1936,Comedy
@@ -171,8 +172,8 @@ Libeled Lady,1936,Comedy
 A Tale of Two Cities,1936,History
 Three Smart Girls,1936,Comedy
 The Country Cousin,1936,Animation
-The Old Mill Pond,1936,Animation
-Popeye the Sailor Meets Sindbad the Sailor,1936,Animation
+Old Mill Pond,1936,Animation
+Sinbad the Sailor,1936,Animation
 Fury,1936,Crime
 After the Thin Man,1936,Comedy
 Conquest,1937,History
@@ -221,7 +222,7 @@ Good Scouts,1938,Animation
 Hunky and Spunky,1938,Animation
 Mother Goose Goes Hollywood,1938,Animation
 Blockade,1938,War
-Mad About Music,1938,Comedy
+Mad about Music,1938,Comedy
 "Goodbye, Mr. Chips",1939,Drama
 Gone with the Wind,1939,Drama
 Wuthering Heights,1939,Drama
@@ -233,7 +234,7 @@ Stagecoach,1939,Western
 Dark Victory,1939,Drama
 Love Affair,1939,Drama
 Ninotchka,1939,Comedy
-Drums Along the Mohawk,1939,Drama
+Drums along the Mohawk,1939,Drama
 Of Mice and Men,1939,Drama
 The Wizard of Oz,1939,Adventure
 Detouring America,1939,Animation
@@ -278,11 +279,11 @@ Blossoms in the Dust,1941,Drama
 Ball of Fire,1941,Comedy
 The Great Lie,1941,Drama
 One Foot in Heaven,1941,Drama
-"Boogie Woogie Bugle Boy of Company ""B""",1941,Animation
+Boogie Woogie Bugle Boy of Company B,1941,Animation
 Hiawatha's Rabbit Hunt,1941,Animation
 How War Came,1941,Animation
 Lend a Paw,1941,Family
-The Night Before Christmas,1941,Animation
+The Night before Christmas,1941,Animation
 Rhapsody in Rivets,1941,Animation
 Rhythm in the Ranks,1941,Animation
 The Rookie Bear,1941,Animation
@@ -290,7 +291,7 @@ Superman,1941,Action
 Truant Officer Donald,1941,Animation
 The Lady Eve,1941,Comedy
 Meet John Doe,1941,Drama
-Night Train to Munich,1940,Drama
+Night Train,1940,Drama
 Yankee Doodle Dandy,1942,Drama
 Random Harvest,1942,Romance
 The Pride of the Yankees,1942,Drama
@@ -304,7 +305,7 @@ Woman of the Year,1942,Comedy
 My Sister Eileen,1942,Comedy
 The Magnificent Ambersons,1942,Drama
 Kings Row,1942,Romance
-49th Parallel,1941,War
+The Invaders,1941,War
 The Talk of the Town,1942,Comedy
 All Out for 'V',1942,Animation
 Blitz Wolf,1942,Animation
@@ -322,23 +323,23 @@ The Song of Bernadette,1943,Drama
 The More the Merrier,1943,Comedy
 Sahara,1943,Adventure
 The Constant Nymph,1943,Drama
-So Proudly We Hail,1943,War
+So Proudly We Hail!,1943,War
 Heaven Can Wait,1943,Comedy
 In Which We Serve,1942,Drama
 The Ox-Bow Incident,1943,Western
 The Dizzy Acrobat,1943,Animation
-500 Hats of Bartholomew Cubbins,1943,Animation
-Greetings Bait,1943,Animation
+The 500 Hats of Bartholomew Cubbins,1943,Animation
+Greetings Bait!,1943,Animation
 Imagination,1943,Animation
 Reason and Emotion,1943,Animation
-The Yankee Doodle Mouse,1943,Animation
+Yankee Doodle Mouse,1943,Animation
 Action in the North Atlantic,1943,War
 Destination Tokyo,1943,War
 Shadow of a Doubt,1943,Thriller
 Holy Matrimony,1943,Comedy
 Gaslight,1944,Thriller
 Going My Way,1944,Drama
-None But the Lonely Heart,1944,Drama
+None but the Lonely Heart,1944,Drama
 Wilson,1944,Drama
 The Seventh Cross,1944,Drama
 Mr. Skeffington,1944,Drama
@@ -348,7 +349,7 @@ Mrs. Parkington,1944,Drama
 Double Indemnity,1944,Crime
 Dragon Seed,1944,Drama
 Lifeboat,1944,War
-And to Think That I Saw It on Mulberry Street,1944,Animation
+And to Think I Saw It on Mulberry Street,1944,Animation
 "Dog, Cat and Canary",1944,Animation
 Fish Fry,1944,Animation
 How to Play Football,1944,Animation
@@ -357,7 +358,7 @@ My Boy Johnny,1944,Animation
 Swooner Crooner,1944,Animation
 A Guy Named Joe,1944,Drama
 None Shall Escape,1944,War
-The Fighting Sullivans,1944,Drama
+The Sullivans,1944,Drama
 Meet Me in St. Louis,1944,Comedy
 The Bells of St. Mary's,1945,Drama
 Anchors Aweigh,1945,Music
@@ -367,7 +368,7 @@ A Song to Remember,1945,Romance
 Spellbound,1945,Thriller
 The Corn Is Green,1945,Drama
 A Tree Grows in Brooklyn,1945,Drama
-Story of G.I. Joe,1945,Drama
+G. I. Joe,1945,Drama
 A Medal for Benny,1945,Drama
 Mildred Pierce,1945,Crime
 The Valley of Decision,1945,Drama
@@ -379,7 +380,7 @@ The Southerner,1945,Drama
 Donald's Crime,1945,Animation
 Jasper and the Beanstalk,1945,Animation
 Life with Feathers,1945,Animation
-Gypsy Life,1945,Animation
+Mighty Mouse in Gypsy Life,1945,Animation
 The Poet and Peasant,1945,Animation
 Quiet Please!,1945,Animation
 Rippling Romance,1945,Animation
@@ -404,15 +405,15 @@ Saratoga Trunk,1945,Drama
 Anna and the King of Siam,1946,Drama
 The Killers,1946,Crime
 The Cat Concerto,1946,Animation
-Musical Moments from Chopin,1946,Animation
-John Henry and the Inky-Poo,1946,Animation
+Chopin's Musical Moments,1946,Animation
+John Henry and the Inky Poo,1946,Animation
 Squatter's Rights,1946,Animation
 Walky Talky Hawky,1946,Animation
 The Dark Mirror,1946,Thriller
 The Strange Love of Martha Ivers,1946,Drama
 The Stranger,1946,Thriller
 Vacation from Marriage,1946,Drama
-"Rome, Open City",1945,Drama
+Open City,1945,Drama
 A Double Life,1947,Drama
 Body and Soul,1947,Drama
 Gentleman's Agreement,1947,Drama
@@ -424,12 +425,12 @@ Miracle on 34th Street,1947,Comedy
 Crossfire,1947,Crime
 Kiss of Death,1947,Crime
 Possessed,1947,Drama
-Smash-Up: The Story of a Woman,1947,Drama
+Smash-Up--The Story of a Woman,1947,Drama
 The Paradine Case,1947,Drama
 The Egg and I,1947,Comedy
 The Bishop's Wife,1947,Comedy
 Great Expectations,1946,Drama
-Chip an' Dale,1947,Animation
+Chip An' Dale,1947,Animation
 Dr. Jekyll and Mr. Mouse,1947,Animation
 Pluto's Blue Note,1947,Animation
 Tubby the Tuba,1947,Animation
@@ -473,23 +474,23 @@ Come to the Stable,1949,Comedy
 The Fallen Idol,1948,Drama
 A Letter to Three Wives,1949,Romance
 Canary Row,1949,Animation
-For Scent-imental Reasons,1949,Animation
+For Scent-Imental Reasons,1949,Animation
 Hatch Up Your Troubles,1949,Animation
 The Magic Fluke,1949,Animation
 Toy Tinkers,1949,Animation
 It Happens Every Spring,1949,Comedy
 The Stratton Story,1949,Drama
 White Heat,1949,Crime
-Bicycle Thieves,1948,Drama
+The Bicycle Thief,1948,Drama
 The Magnificent Yankee,1950,Drama
 Cyrano de Bergerac,1950,Romance
-Sunset Boulevard,1950,Drama
+Sunset Blvd.,1950,Drama
 Harvey,1950,Comedy
 Father of the Bride,1950,Comedy
 Broken Arrow,1950,Western
 Mister 880,1950,Comedy
 The Asphalt Jungle,1950,Crime
-All About Eve,1950,Drama
+All about Eve,1950,Drama
 Born Yesterday,1950,Comedy
 Caged,1950,Crime
 The Third Man,1949,Thriller
@@ -514,7 +515,7 @@ Detective Story,1951,Crime
 The Blue Veil,1951,Drama
 The Mating Season,1951,Comedy
 An American in Paris,1951,Music
-Decision Before Dawn,1951,War
+Decision before Dawn,1951,War
 "Lambert, the Sheepish Lion",1951,Animation
 Rooty Toot Toot,1951,Animation
 The Two Mouseketeers,1951,Animation
@@ -539,14 +540,14 @@ The Star,1952,Drama
 The Member of the Wedding,1952,Drama
 With a Song in My Heart,1952,Music
 Singin' in the Rain,1952,Comedy
-5 Fingers,1952,Thriller
+Five Fingers,1952,Thriller
 The Greatest Show on Earth,1952,Drama
 Ivanhoe,1952,Adventure
 Johann Mouse,1952,Animation
 Little Johnny Jet,1952,Animation
 Madeline,1952,Animation
 Pink and Blue Blues,1952,Animation
-The Romance of Transportation in Canada,1952,History
+Romance of Transportation,1952,History
 My Son John,1952,Drama
 The Narrow Margin,1952,Thriller
 The Pride of St. Louis,1952,Drama
@@ -568,7 +569,7 @@ Pickup on South Street,1953,Thriller
 Christopher Crumpet,1953,Animation
 From A to Z-Z-Z-Z,1953,Animation
 Rugged Bear,1953,Animation
-The Tell-Tale Heart,1953,Animation
+The Tell Tale Heart,1953,Animation
 "Toot, Whistle, Plunk and Boom",1953,Animation
 Above and Beyond,1953,Action
 The Captain's Paradise,1953,Romance
@@ -578,7 +579,7 @@ The Caine Mutiny,1954,Drama
 On the Waterfront,1954,Crime
 The Country Girl,1954,Drama
 A Star Is Born,1954,Drama
-Robinson Crusoe,1954,Adventure
+Adventures of Robinson Crusoe,1954,Adventure
 The Barefoot Contessa,1954,Drama
 Carmen Jones,1954,Drama
 Sabrina,1954,Comedy
@@ -592,7 +593,7 @@ Three Coins in the Fountain,1954,Drama
 Crazy Mixed Up Pup,1954,Animation
 Pigs Is Pigs,1954,Animation
 Sandy Claws,1954,Animation
-"Touché, Pussy Cat!",1954,Animation
+Touché Pussy Cat,1954,Animation
 When Magoo Flew,1954,Animation
 "Bread, Love and Dreams",1953,Romance
 Forbidden Games,1952,Drama
@@ -606,7 +607,7 @@ The Man with the Golden Arm,1955,Drama
 Bad Day at Black Rock,1955,Thriller
 Trial,1955,Drama
 Mister Roberts,1955,Comedy
-Rebel Without a Cause,1955,Drama
+Rebel without a Cause,1955,Drama
 Picnic,1955,Drama
 I'll Cry Tomorrow,1955,Drama
 Summertime,1955,Drama
@@ -637,13 +638,13 @@ The Rainmaker,1956,Romance
 The Bad Seed,1956,Thriller
 Around the World in 80 Days,1956,Adventure
 War and Peace,1956,War
-The Captain from Kopenick,1956,Comedy
+The Captain of Kopenick,1956,Comedy
 Gervaise,1956,Romance
 Harp of Burma,1956,War
 La Strada,1954,Drama
 Qivitoq,1956,Adventure
 The Ten Commandments,1956,Drama
-Gerald McBoing! Boing! on Planet Moo,1956,Animation
+Gerald McBoing-Boing on Planet Moo,1956,Animation
 The Jaywalker,1956,Animation
 Mister Magoo's Puddle Jumper,1956,Comedy
 The Brave One,1956,Family
@@ -663,16 +664,16 @@ Raintree County,1957,Romance
 The Three Faces of Eve,1957,Drama
 The Bachelor Party,1957,Drama
 12 Angry Men,1957,Drama
-The Devil Strikes at Night,1957,Drama
-The Gates of Paris,1957,Drama
+The Devil Came at Night,1957,Drama
+Gates of Paris,1957,Drama
 Mother India,1957,Drama
-Nights of Cabiria,1957,Drama
+The Nights of Cabiria,1957,Drama
 Nine Lives,1957,Action
 Birds Anonymous,1957,Animation
 One Droopy Knight,1957,Animation
 Tabasco Road,1957,Animation
 Trees and Jamaica Daddy,1957,Animation
-The Truth About Mother Goose,1957,Animation
+The Truth about Mother Goose,1957,Animation
 The Defiant Ones,1958,Crime
 Cat on a Hot Tin Roof,1958,Drama
 Separate Tables,1958,Drama
@@ -687,10 +688,10 @@ Lonelyhearts,1959,Drama
 Gigi,1958,Comedy
 The Inn of the Sixth Happiness,1958,War
 Arms and the Man,1958,Comedy
-Revenge,1958,Drama
-Mon Oncle,1958,Comedy
-The Year Long Road,1958,Drama
-Big Deal on Madonna Street,1958,Comedy
+La Venganza,1958,Drama
+My Uncle,1958,Comedy
+The Road a Year Long,1958,Drama
+The Usual Unidentified Thieves,1958,Comedy
 Knighty Knight Bugs,1958,Animation
 Paul Bunyan,1958,Family
 Sidney's Family Tree,1958,Animation
@@ -709,8 +710,8 @@ Imitation of Life,1959,Drama
 Black Orpheus,1959,Drama
 The Bridge,1959,Drama
 The Great War,1959,Comedy
-Boy of Two Worlds,1959,Family
-Village by the River,1958,Drama
+Paw,1959,Family
+The Village on the River,1958,Drama
 Mexicali Shmoes,1959,Animation
 Moonbird,1959,Animation
 Noah's Ark,1959,Animation
@@ -727,11 +728,11 @@ The Alamo,1960,War
 Sunrise at Campobello,1960,Drama
 The Sundowners,1960,Drama
 Never on Sunday,1960,Comedy
-BUtterfield 8,1960,Drama
+Butterfield 8,1960,Drama
 The Dark at the Top of the Stairs,1960,Drama
 Psycho,1960,Horror
 Kapo,1960,Drama
-The Truth,1960,Drama
+La Vérité,1960,Drama
 Macario,1960,Drama
 The Ninth Circle,1960,Drama
 The Virgin Spring,1960,Drama
@@ -762,24 +763,24 @@ Placido,1962,Comedy
 Through a Glass Darkly,1961,Drama
 Aquamania,1961,Animation
 Beep Prepared,1961,Animation
-The Substitute,1961,Comedy
+Ersatz (The Substitute),1961,Comedy
 Nelly's Folly,1961,Animation
 The Pied Piper of Guadalupe,1961,Animation
 Birdman of Alcatraz,1962,Drama
 Days of Wine and Roses,1963,Drama
-Divorce Italian Style,1961,Comedy
+Divorce--Italian Style,1961,Comedy
 Lawrence of Arabia,1962,Adventure
 To Kill a Mockingbird,1962,Drama
 Sweet Bird of Youth,1962,Drama
 What Ever Happened to Baby Jane?,1962,Drama
 Billy Budd,1962,Drama
 The Miracle Worker,1962,Drama
-Long Day's Journey Into Night,1962,Drama
+Long Day's Journey into Night,1962,Drama
 The Manchurian Candidate,1962,Thriller
 David and Lisa,1962,Drama
 Electra,1962,Action
 The Four Days of Naples,1962,Drama
-The Given Word,1962,Drama
+Keeper of Promises (The Given Word),1962,Drama
 Sundays and Cybele,1962,Drama
 Tlayucan,1962,Comedy
 The Longest Day,1962,War
@@ -788,8 +789,8 @@ Mutiny on the Bounty,1962,Adventure
 The Hole,1962,Animation
 Icarus Montgolfier Wright,1962,Science Fiction
 Now Hear This,1962,Animation
-Self Defense... for Cowards,1962,Animation
-A Symposium on Popular Songs,1962,Animation
+Self Defense--For Cowards,1962,Animation
+Symposium on Popular Songs,1962,Animation
 Lolita,1962,Drama
 Tom Jones,1963,Comedy
 This Sporting Life,1963,Drama
@@ -800,11 +801,11 @@ Twilight of Honor,1963,Drama
 "Captain Newman, M.D.",1963,Comedy
 The Cardinal,1963,Drama
 The L-Shaped Room,1963,Drama
-Irma la Douce,1963,Romance
+Irma La Douce,1963,Romance
 Love with the Proper Stranger,1963,Comedy
 The V.I.P.s,1963,Drama
 America America,1963,Drama
-8½,1963,Drama
+Federico Fellini's 8-1/2,1963,Drama
 Knife in the Water,1962,Drama
 Los Tarantos,1963,Romance
 The Red Lanterns,1963,Drama
@@ -830,7 +831,7 @@ The Unsinkable Molly Brown,1964,Comedy
 Seance on a Wet Afternoon,1964,Crime
 The Chalk Garden,1964,Drama
 The Night of the Iguana,1964,Drama
-"Hush... Hush, Sweet Charlotte",1964,Horror
+Hush... Hush Sweet Charlotte,1964,Horror
 Raven's End,1964,Drama
 Sallah,1964,Comedy
 The Umbrellas of Cherbourg,1964,Drama
@@ -857,12 +858,11 @@ Woman in the Dunes,1965,Drama
 Blood on the Land,1965,Drama
 Dear John,1965,Drama
 Kwaidan,1965,Horror
-Marriage Italian Style,1964,Drama
 The Shop on Main Street,1965,Drama
 Clay or The Origin of Species,1965,Animation
-The Dot and the Line: A Romance in Lower Mathematics,1965,Animation
-The Thieving Magpie,1965,Animation
-The Russians Are Coming! The Russians Are Coming!,1966,Comedy
+The Dot and the Line,1965,Animation
+The Thieving Magpie (La Gazza Ladra),1965,Animation
+The Russians Are Coming The Russians Are Coming,1966,Comedy
 Who's Afraid of Virginia Woolf?,1966,Drama
 Alfie,1966,Comedy
 The Sand Pebbles,1966,Drama
@@ -871,7 +871,7 @@ Georgy Girl,1966,Comedy
 The Fortune Cookie,1966,Comedy
 A Man and a Woman,1966,Drama
 The Shop on Main Street,1965,Drama
-Morgan: A Suitable Case for Treatment,1966,Comedy
+Morgan!,1966,Comedy
 Hawaii,1966,Drama
 You're a Big Boy Now,1966,Comedy
 Blow-Up,1966,Drama
@@ -879,7 +879,7 @@ The Professionals,1966,Western
 The Battle of Algiers,1966,Drama
 Loves of a Blonde,1965,Comedy
 Pharaoh,1966,History
-Three Thieves,1966,Comedy
+Three,1966,Drama
 The Drag,1966,Animation
 Herb Alpert and the Tijuana Brass Double Feature,1966,Animation
 The Pink Blueprint,1966,Animation
@@ -890,18 +890,18 @@ In the Heat of the Night,1967,Crime
 Guess Who's Coming to Dinner,1967,Drama
 The Dirty Dozen,1967,Action
 The Whisperers,1967,Drama
-Wait Until Dark,1967,Thriller
+Wait until Dark,1967,Thriller
 Thoroughly Modern Millie,1967,Comedy
 Barefoot in the Park,1967,Comedy
 In Cold Blood,1967,Crime
 Closely Watched Trains,1966,Comedy
-Bewitched Love,1967,Drama
+El Amor Brujo,1967,Drama
 I Even Met Happy Gypsies,1967,Drama
 Live for Life,1967,Drama
 Portrait of Chieko,1967,Drama
 Doctor Dolittle,1967,Music
 The Box,1967,Animation
-Hypothèse Beta,1967,Animation
+Hypothese Beta,1967,Animation
 What on Earth!,1967,Animation
 Ulysses,1967,Drama
 The Heart Is a Lonely Hunter,1968,Drama
@@ -922,7 +922,7 @@ Romeo and Juliet,1968,Drama
 2001: A Space Odyssey,1968,Science Fiction
 The Boys of Paul Street,1968,Family
 The Firemen's Ball,1967,Comedy
-The Girl with a Pistol,1968,Comedy
+The Girl with the Pistol,1968,Comedy
 Stolen Kisses,1968,Comedy
 War and Peace,1968,History
 The House That Jack Built,1968,Animation
@@ -946,7 +946,7 @@ Cactus Flower,1969,Comedy
 Alice's Restaurant,1969,Drama
 Butch Cassidy and the Sundance Kid,1969,Adventure
 Z,1969,Thriller
-Adalen 31,1969,Drama
+Ådalen '31,1969,Drama
 The Battle of Neretva,1969,Drama
 The Brothers Karamazov,1969,Drama
 My Night at Maud's,1969,Romance
@@ -968,11 +968,11 @@ Diary of a Mad Housewife,1970,Comedy
 The Landlord,1970,Comedy
 Airport,1970,Action
 M*A*S*H,1970,Comedy
-Satyricon,1969,Drama
+Fellini Satyricon,1969,Drama
 First Love,1970,Drama
-The Bamboo Incident,1970,War
-Investigation of a Citizen Above Suspicion,1970,Drama
-Peace in the Fields,1970,Drama
+Hoa-Binh,1970,War
+Investigation of a Citizen above Suspicion,1970,Drama
+Paix Sur Les Champs,1970,Drama
 Tristana,1970,Drama
 The Further Adventures of Uncle Sam: Part Two,1970,Animation
 Is It Always Right to Be Right?,1970,Animation
@@ -989,14 +989,14 @@ Klute,1971,Thriller
 "Mary, Queen of Scots",1971,Drama
 Nicholas and Alexandra,1971,Drama
 Carnal Knowledge,1971,Drama
-Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?,1971,Comedy
+Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,1971,Comedy
 The Go-Between,1971,Drama
 A Clockwork Orange,1971,Science Fiction
-Dodes'ka-den,1970,Drama
+Dodes'ka-Den,1970,Drama
 The Emigrants,1971,Drama
-The Garden of the Finzi-Continis,1970,Drama
+The Garden of the Finzi Continis,1970,Drama
 The Policeman,1971,Comedy
-The Music Lovers,1971,Drama
+Tchaikovsky,1971,Drama
 The Crunch Bird,1971,Comedy
 Evolution,1971,Animation
 The Selfish Giant,1971,Animation
@@ -1018,7 +1018,7 @@ Deliverance,1972,Drama
 The Dawns Here Are Quiet,1972,Drama
 The Discreet Charm of the Bourgeoisie,1972,Comedy
 I Love You Rosa,1972,Romance
-My Dearest Senorita,1972,Drama
+My Dearest Señorita,1972,Drama
 The New Land,1972,Drama
 A Christmas Carol,1972,Animation
 Kama Sutra Rides Again,1972,Animation
@@ -1040,7 +1040,7 @@ Paper Moon,1973,Comedy
 Cries and Whispers,1972,Drama
 Day for Night,1973,Comedy
 The House on Chelouche Street,1973,Drama
-The Invitation,1973,Comedy
+L'Invitation,1973,Comedy
 The Pedestrian,1973,Drama
 Turkish Delight,1973,Drama
 Frank Film,1973,Animation
@@ -1055,11 +1055,11 @@ The Towering Inferno,1974,Action
 Thunderbolt and Lightfoot,1974,Comedy
 Alice Doesn't Live Here Anymore,1974,Romance
 Claudine,1974,Drama
-A Woman Under the Influence,1974,Drama
+A Woman under the Influence,1974,Drama
 Days and Nights in the Forest,1970,Drama
 Blazing Saddles,1974,Western
 Amarcord,1973,Documentary
-Cat's Play,1974,Drama
+Cats' Play,1974,Drama
 The Deluge,1974,History
 "Lacombe, Lucien",1974,Drama
 The Truce,1974,Romance
@@ -1072,23 +1072,23 @@ Winnie the Pooh and Tigger Too,1974,Family
 The Apprenticeship of Duddy Kravitz,1974,Drama
 Young Frankenstein,1974,Comedy
 The Sunshine Boys,1975,Comedy
-One Flew Over the Cuckoo's Nest,1975,Drama
+One Flew over the Cuckoo's Nest,1975,Drama
 Dog Day Afternoon,1975,Crime
 The Man in the Glass Booth,1975,Drama
 "Give 'em Hell, Harry!",1975,Drama
 The Day of the Locust,1975,Drama
 Shampoo,1975,Comedy
-The Story of Adèle H.,1975,Drama
+The Story of Adele H.,1975,Drama
 Tommy,1975,Drama
 Hedda,1975,Drama
 Hester Street,1975,Drama
 Nashville,1975,Drama
 "Farewell, My Lovely",1975,Crime
-Once Is Not Enough,1975,Drama
+Jacqueline Susann's Once Is Not Enough,1975,Drama
 Amarcord,1975,Documentary
 Barry Lyndon,1975,Drama
 Dersu Uzala,1975,Adventure
-The Promised Land,1975,Drama
+Land of Promise,1975,Drama
 Letters from Marusia,1975,Drama
 Sandakan No. 8,1975,War
 Scent of a Woman,1974,Comedy
@@ -1110,13 +1110,13 @@ Face to Face,1967,Western
 Voyage of the Damned,1976,Drama
 Black and White in Color,1976,Drama
 "Jacob, the Liar",1976,Comedy
-Three Days and Three Nights,1976,Drama
+Nights and Days,1976,Drama
 Bound for Glory,1976,Music
-Labyrinth,1976,Animation
+Dedalo,1976,Animation
 Leisure,1976,Animation
 The Street,1977,Comedy
 Fellini's Casanova,1976,Drama
-The Seven-Per-Cent Solution,1976,Mystery
+The Seven-per-cent Solution,1976,Mystery
 Annie Hall,1977,Comedy
 Equus,1977,Drama
 The Goodbye Girl,1977,Comedy
@@ -1152,9 +1152,10 @@ California Suite,1978,Comedy
 Get Out Your Handkerchiefs,1978,Romance
 The Glass Cell,1978,Drama
 Hungarians,1978,Drama
-The New Monsters,1977,Comedy
+Viva Italia!,1978,Comedy
+Waltzing Regitze,1977,Comedy
 White Bim Black Ear,1978,Drama
-Oh My Darling...,1978,Animation
+Oh My Darling,1978,Animation
 Rip Van Winkle,1978,Animation
 Special Delivery,1978,Animation
 Bloodbrothers,1978,Drama
@@ -1179,7 +1180,7 @@ The Tin Drum,1979,Drama
 To Forget Venice,1979,Drama
 Dream Doll,1979,Animation
 Every Child,1979,Comedy
-It's So Nice to Have a Wolf Around the House,1979,Animation
+It's So Nice to Have a Wolf around the House,1979,Animation
 A Little Romance,1979,Comedy
 Raging Bull,1980,Drama
 The Great Santini,1979,Drama
@@ -1195,7 +1196,7 @@ Coal Miner's Daughter,1980,Music
 Inside Moves,1980,Drama
 Tess,1979,Drama
 Confidence,1980,Drama
-Kagemusha,1980,Action
+Kagemusha (The Shadow Warrior),1980,Action
 The Last Metro,1980,Drama
 Moscow Does Not Believe in Tears,1980,Drama
 The Nest,1980,Drama
@@ -1218,7 +1219,8 @@ Man of Iron,1981,Drama
 Mephisto,1981,Drama
 Muddy River,1981,Drama
 Three Brothers,1981,Drama
-Crac!,1980,Animation
+Crac,1980,Animation
+The Fly,1980,Animation
 The Creation,1981,Animation
 The Tender Tale of Cinderella Penguin,1981,Animation
 Pennies from Heaven,1981,Drama
@@ -1235,12 +1237,12 @@ Victor/Victoria,1982,Music
 Frances,1982,Drama
 Sophie's Choice,1982,Drama
 Das Boot,1981,Drama
-E.T. the Extra-Terrestrial,1982,Science Fiction
+E.T. The Extra-Terrestrial,1982,Science Fiction
 Alsino and the Condor,1982,Drama
-Coup de Torchon,1981,Comedy
+Coup de Torchon ('Clean Slate'),1981,Comedy
 The Flight of the Eagle,1982,Drama
 Private Life,1982,Drama
-To Begin Again,1982,Drama
+Volver a Empezar ('To Begin Again'),1982,Drama
 The Great Cognito,1982,Animation
 The Snowman,1982,Adventure
 Tango,1985,Animation
@@ -1257,10 +1259,10 @@ Silkwood,1983,Drama
 The Big Chill,1983,Comedy
 The Year of Living Dangerously,1982,Romance
 Yentl,1983,Music
-Fanny and Alexander,1982,Fantasy
+Fanny & Alexander,1982,Fantasy
 Carmen,1983,Drama
 Entre Nous,1983,Drama
-The Revolt of Job,1983,Drama
+Job's Revolt,1983,Drama
 Le Bal,1983,Music
 Mickey's Christmas Carol,1983,Family
 Sound of Sunshine - Sound of Rain,1983,Animation
@@ -1289,7 +1291,7 @@ Double Feature,1984,Drama
 Wartime Romance,1984,Drama
 Charade,1984,Animation
 Doctor De Soto,1984,Animation
-Escape to Paradise,1984,Comedy
+Paradise,1984,Comedy
 Witness,1985,Crime
 Murphy's Romance,1985,Comedy
 Kiss of the Spider Woman,1985,Drama
@@ -1332,7 +1334,7 @@ Betty Blue,1986,Drama
 The Decline of the American Empire,1986,Comedy
 My Sweet Little Village,1986,Comedy
 38 - Vienna Before the Fall,1986,Drama
-"The Frog, the Dog, and the Devil",1986,Animation
+The Frog the Dog and the Devil,1986,Animation
 A Greek Tragedy,1986,Animation
 Luxo Jr.,1986,Animation
 Stand by Me,1986,Crime
@@ -1347,13 +1349,13 @@ Moonstruck,1987,Comedy
 Cry Freedom,1987,Drama
 Fatal Attraction,1987,Thriller
 Anna,1987,Drama
-Gaby: A True Story,1987,Drama
+Gaby - A True Story,1987,Drama
 Throw Momma from the Train,1987,Comedy
 The Whales of August,1987,Drama
 Hope and Glory,1987,Drama
 The Last Emperor,1987,Drama
 My Life as a Dog,1985,Drama
-Au Revoir les Enfants,1987,Drama
+Au Revoir Les Enfants,1987,Drama
 Babette's Feast,1987,Drama
 Course Completed,1987,Drama
 The Crazy Family,1984,Drama
@@ -1369,11 +1371,13 @@ Rain Man,1988,Drama
 Stand and Deliver,1988,Drama
 Pelle the Conqueror,1987,Drama
 Little Dorrit,1987,Drama
+The Family,1987,Drama
 A Fish Called Wanda,1988,Comedy
-Tucker: The Man and His Dream,1988,Drama
+Tucker The Man and His Dream,1988,Drama
 Running on Empty,1988,Drama
 Married to the Mob,1988,Comedy
 Dangerous Liaisons,1988,Drama
+A Cry in the Dark,1988,Drama
 The Accused,1988,Crime
 Working Girl,1988,Comedy
 Evil Angels,1988,Drama
@@ -1390,7 +1394,7 @@ Tin Toy,1988,Animation
 The Unbearable Lightness of Being,1988,Drama
 Henry V,1989,War
 Born on the Fourth of July,1989,Drama
-My Left Foot: The Story of Christy Brown,1989,Drama
+My Left Foot,1989,Drama
 Driving Miss Daisy,1989,Drama
 Dead Poets Society,1989,Drama
 Do the Right Thing,1989,Drama
@@ -1401,18 +1405,18 @@ Camille Claudel,1988,Drama
 Shirley Valentine,1989,Romance
 Music Box,1989,Drama
 The Fabulous Baker Boys,1989,Comedy
-"Enemies, a Love Story",1989,Comedy
+Enemies A Love Story,1989,Comedy
 Steel Magnolias,1989,Comedy
 Parenthood,1989,Comedy
 Cinema Paradiso,1988,Drama
 Jesus of Montreal,1989,Drama
-Memories of a Marriage,1989,Drama
-Lo que le pasó a Santiago,1989,Comedy
+Waltzing Regitze,1989,Drama
+What Happened to Santiago,1989,Comedy
 Field of Dreams,1989,Drama
 Balance,1989,Drama
 The Cow,1989,Animation
 The Hill Farm,1989,Animation
-Dances with Wolves,1990,Adventure
+Dances With Wolves,1990,Adventure
 Awakenings,1990,Drama
 Cyrano de Bergerac,1990,Drama
 The Field,1990,Drama
@@ -1420,7 +1424,7 @@ Reversal of Fortune,1990,Drama
 Longtime Companion,1989,Drama
 The Godfather Part III,1990,Crime
 Dick Tracy,1990,Adventure
-GoodFellas,1990,Drama
+Good Fellas,1990,Drama
 Misery,1990,Drama
 The Grifters,1990,Crime
 Pretty Woman,1990,Romance
@@ -1434,7 +1438,7 @@ The Nasty Girl,1990,Comedy
 Open Doors,1990,Drama
 Creature Comforts,1990,Animation
 A Grand Day Out,1990,Family
-Grasshoppers,1990,Comedy
+Grasshoppers (Cavallette),1990,Comedy
 Bugsy,1991,Crime
 Cape Fear,1991,Drama
 The Silence of the Lambs,1991,Crime
@@ -1447,7 +1451,7 @@ Thelma & Louise,1991,Drama
 Rambling Rose,1991,Drama
 For the Boys,1991,Drama
 Fried Green Tomatoes,1991,Drama
-Boyz n the Hood,1991,Crime
+Boyz N the Hood,1991,Crime
 Children of Nature,1991,Romance
 The Elementary School,1991,Comedy
 Mediterraneo,1991,Comedy
@@ -1477,15 +1481,16 @@ Damage,1992,Drama
 My Cousin Vinny,1992,Comedy
 The Player,1992,Mystery
 Close to Eden,1991,Drama
-Priest Daens,1992,Drama
+Daens,1992,Drama
 A Place in the World,1992,Drama
 Schtonk!,1992,Comedy
 Adam,1992,Comedy
 Mona Lisa Descending a Staircase,1992,Animation
 "Reci, Reci, Reci... (Words, Words, Words)",1992,Animation
+Screen Play,1992,Animation
 The Sandman,1992,Horror
 Bad Girl,1992,Drama
-A River Runs Through It,1992,Drama
+A River Runs through It,1992,Drama
 In the Name of the Father,1993,Drama
 What's Love Got to Do with It,1993,Drama
 Philadelphia,1993,Drama
@@ -1501,7 +1506,7 @@ The Firm,1993,Drama
 Fearless,1993,Drama
 The Age of Innocence,1993,Drama
 Short Cuts,1993,Drama
-Belle Époque,1992,Comedy
+Belle Epoque,1992,Comedy
 Farewell My Concubine,1993,Drama
 Hedd Wyn,1993,War
 The Scent of Green Papaya,1993,Drama
@@ -1517,7 +1522,7 @@ The Madness of King George,1994,Comedy
 Nobody's Fool,1994,Drama
 Pulp Fiction,1994,Thriller
 Ed Wood,1994,Comedy
-Bullets Over Broadway,1994,Comedy
+Bullets over Broadway,1994,Comedy
 Quiz Show,1994,History
 Nell,1994,Drama
 Blue Sky,1994,Drama
@@ -1528,7 +1533,7 @@ Red,1994,Drama
 Before the Rain,1994,Drama
 Burnt by the Sun,1994,Drama
 Eat Drink Man Woman,1994,Comedy
-Farinelli,1994,History
+Farinelli: Il Castrato,1994,History
 Strawberry and Chocolate,1993,Comedy
 Four Weddings and a Funeral,1994,Comedy
 The Big Story,1995,Animation
@@ -1540,10 +1545,10 @@ Leaving Las Vegas,1995,Drama
 Mr. Holland's Opus,1995,Drama
 Nixon,1995,Drama
 Dead Man Walking,1995,Drama
-The Postman,1994,Comedy
+The Postman (Il Postino),1994,Comedy
 Babe,1995,Fantasy
 Apollo 13,1995,Drama
-Twelve Monkeys,1995,Science Fiction
+12 Monkeys,1995,Science Fiction
 Rob Roy,1995,Adventure
 The Usual Suspects,1995,Drama
 Casino,1995,Crime
@@ -1555,11 +1560,11 @@ Braveheart,1995,Action
 All Things Fair,1995,Drama
 Antonia's Line,1995,Drama
 Dust of Life,1995,Drama
-The Quartet,1995,Drama
+O Quatrilho,1995,Drama
 The Star Maker,1995,Drama
 The Chicken from Outer Space,1995,Animation
 A Close Shave,1996,Family
-The End.,1995,Animation
+the end,1995,Animation
 Gagarin,1995,Animation
 Runaway Brain,1995,Animation
 Jerry Maguire,1996,Comedy
@@ -1597,7 +1602,7 @@ Amistad,1997,Drama
 Boogie Nights,1997,Drama
 The Wings of the Dove,1997,Drama
 Afterglow,1997,Drama
-Mrs Brown,1997,Drama
+Mrs. Brown,1997,Drama
 Titanic,1997,Drama
 L.A. Confidential,1997,Crime
 In & Out,1997,Comedy
@@ -1610,8 +1615,8 @@ Secrets of the Heart,1997,Drama
 The Thief,1997,Drama
 Famous Fred,1997,Comedy
 Geri's Game,1997,Animation
-The Old Lady and the Pigeons,1997,Animation
-The Files of Young Kindaichi: Legend of the Shanghai Mermaid,1997,Drama
+La Vieille Dame et les Pigeons (The Old Lady and the Pigeons),1997,Animation
+The Mermaid,1997,Animation
 Redux Riding Hood,1997,Animation
 Donnie Brasco,1997,Crime
 Life Is Beautiful,1997,Comedy
@@ -1646,6 +1651,7 @@ American Beauty,1999,Drama
 The Hurricane,1999,Drama
 The Cider House Rules,1999,Drama
 Magnolia,1999,Drama
+Under the Sun,1999,Drama
 The Green Mile,1999,Fantasy
 The Talented Mr. Ripley,1999,Thriller
 The Sixth Sense,1999,Mystery
@@ -1655,10 +1661,10 @@ Music of the Heart,1999,Drama
 Boys Don't Cry,1999,Crime
 "Girl, Interrupted",1999,Drama
 Being John Malkovich,1999,Comedy
-All About My Mother,1999,Comedy
-The Last Caravan,1999,Documentary
-East/West,1999,Drama
-Solomon & Gaenor,1999,Drama
+All about My Mother,1999,Comedy
+Caravan,1999,Documentary
+East-West,1999,Drama
+Solomon and Gaenor,1999,Drama
 Rebirth of Mothra II,1997,Science Fiction
 Humdrum,1999,Comedy
 My Grandmother Ironed the King's Shirts,1999,Animation
@@ -1683,7 +1689,7 @@ Billy Elliot,2000,Drama
 "Crouching Tiger, Hidden Dragon",2000,Adventure
 Amores Perros,2000,Drama
 Divided We Fall,2000,Comedy
-Everybody's Famous!,2000,Comedy
+Everybody Famous!,2000,Comedy
 The Taste of Others,2000,Drama
 Father and Daughter,2001,Animation
 The Periwig-Maker,1999,Animation
@@ -1709,7 +1715,7 @@ Black Hawk Down,2001,Action
 Mulholland Drive,2001,Thriller
 Amélie,2001,Comedy
 Elling,2001,Comedy
-Lagaan: Once Upon a Time in India,2001,Adventure
+Lagaan,2001,Adventure
 No Man's Land,2001,Action
 Son of the Bride,2001,Comedy
 Fifty Percent Grey,2001,Comedy
@@ -1719,7 +1725,7 @@ Strange Invaders,2001,Animation
 Stubble Trouble,2001,Animation
 Ghost World,2001,Comedy
 The Pianist,2002,Drama
-Adaptation.,2002,Comedy
+Adaptation,2002,Comedy
 The Quiet American,2002,Romance
 Gangs of New York,2002,Drama
 About Schmidt,2002,Drama
@@ -1733,12 +1739,13 @@ Far from Heaven,2002,Drama
 Ice Age,2002,Animation
 Lilo & Stitch,2002,Animation
 Spirit: Stallion of the Cimarron,2002,Animation
+Das Rad,2002,Animation
 Spirited Away,2001,Animation
 Treasure Planet,2002,Science Fiction
 Talk to Her,2002,Drama
-The Crime of Padre Amaro,2002,Drama
+El Crimen del Padre Amaro,2002,Drama
 Hero,2002,Drama
-The Man Without a Past,2002,Comedy
+The Man without a Past,2002,Comedy
 Nowhere in Africa,2001,Drama
 Zus & Zo,2002,Comedy
 The Lord of the Rings: The Two Towers,2002,Adventure
@@ -1746,7 +1753,7 @@ The Cathedral,2002,Science Fiction
 The ChubbChubbs!,2002,Animation
 The Sweet Hereafter,1997,Drama
 Mike's New Car,2002,Animation
-Mount Head,2002,Animation
+Mt. Head,2002,Animation
 About a Boy,2002,Drama
 Pirates of the Caribbean: The Curse of the Black Pearl,2003,Adventure
 House of Sand and Fog,2003,Drama
@@ -1774,6 +1781,7 @@ The Twilight Samurai,2003,Drama
 Twin Sisters,2002,Romance
 Zelary,2003,Drama
 Seabiscuit,2003,Drama
+Evil,2003,Drama
 Boundin',2003,Animation
 Destino,2003,Animation
 Gone Nutty,2003,Animation
@@ -1797,7 +1805,7 @@ The Incredibles,2004,Action
 Shark Tale,2004,Animation
 Shrek 2,2004,Animation
 As It Is in Heaven,2004,Romance
-The Chorus,2004,Drama
+The Chorus (Les Choristes),2004,Drama
 Downfall,2004,Drama
 The Sea Inside,2004,Drama
 Yesterday,2004,Drama
@@ -1824,13 +1832,13 @@ North Country,2005,Drama
 Junebug,2005,Comedy
 The Constant Gardener,2005,Drama
 Howl's Moving Castle,2004,Fantasy
-Corpse Bride,2005,Romance
-Wallace & Gromit: The Curse of the Were-Rabbit,2005,Adventure
+Tim Burton's Corpse Bride,2005,Romance
+Wallace & Gromit in The Curse of the Were-Rabbit,2005,Adventure
 Munich,2005,Drama
 Don't Tell,2005,Drama
-Joyeux Noel,2005,Drama
+Joyeux Noël,2005,Drama
 Paradise Now,2005,Crime
-Sophie Scholl: The Final Days,2005,Drama
+Sophie Scholl - The Final Days,2005,Drama
 Tsotsi,2005,Crime
 Badgered,2005,Animation
 The Moon and the Son: An Imagined Conversation,2005,Animation
@@ -1857,7 +1865,7 @@ Monster House,2006,Animation
 Letters from Iwo Jima,2006,Action
 United 93,2006,Drama
 After the Wedding,2006,Drama
-Days of Glory,2006,Drama
+Days of Glory (Indigènes),2006,Drama
 The Lives of Others,2006,Drama
 Pan's Labyrinth,2006,Fantasy
 Water,2005,Drama
@@ -1866,11 +1874,11 @@ Lifted,2006,Family
 The Little Matchgirl,2006,Animation
 The Legend of Drunken Master,1994,Action
 No Time for Nuts,2006,Adventure
-Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Comedy
+Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Comedy
 Children of Men,2006,Science Fiction
 Michael Clayton,2007,Drama
 There Will Be Blood,2007,Drama
-Sweeney Todd: The Demon Barber of Fleet Street,2007,Drama
+Sweeney Todd The Demon Barber of Fleet Street,2007,Drama
 In the Valley of Elah,2007,History
 Eastern Promises,2007,Thriller
 The Assassination of Jesse James by the Coward Robert Ford,2007,Drama
@@ -1897,7 +1905,7 @@ Mongol: The Rise of Genghis Khan,2007,History
 12,2007,Crime
 I Met the Walrus,2007,Documentary
 Madame Tutli-Putli,2007,Animation
-Even Pigeons Go to Heaven,2007,Animation
+Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),2007,Animation
 My Love (Moya Lyubov),2007,Romance
 Peter & the Wolf,2006,Animation
 The Visitor,2008,Crime
@@ -1924,9 +1932,10 @@ Departures,2008,Drama
 Revanche,2008,Crime
 Waltz with Bashir,2008,Animation
 La Maison en Petits Cubes,2008,Animation
-Lavatory Lovestory,2006,Animation
+Lavatory - Lovestory,2006,Animation
 Oktapodi,2008,Animation
 Presto,2008,Animation
+WALL-E,2008,Animation
 This Way Up,2008,Comedy
 Crazy Heart,2009,Drama
 Up in the Air,2009,Drama
@@ -1957,7 +1966,7 @@ District 9,2009,Science Fiction
 A Serious Man,2009,Comedy
 French Roast,2008,Animation
 Granny O'Grimm's Sleeping Beauty,2009,Animation
-The Lady and the Reaper,2009,Animation
+The Lady and the Reaper (La Dama y la Muerte),2009,Animation
 Logorama,2009,Animation
 A Matter of Loaf and Death,2008,Family
 In the Loop,2009,Comedy
@@ -1980,13 +1989,13 @@ Toy Story 3,2010,Animation
 Dogtooth,2009,Drama
 In a Better World,2010,Drama
 Incendies,2010,Drama
-Outside the Law,2010,Action
+Outside the Law (Hors-la-loi),2010,Action
 Inception,2010,Action
 Day & Night,2010,Animation
 The Gruffalo,2009,Animation
 Let's Pollute,2009,Animation
 The Lost Thing,2010,Animation
-"Madagascar, a Journey Diary",2010,Animation
+Madagascar a Journey Diary,2010,Animation
 A Better Life,2011,Drama
 The Descendants,2011,Comedy
 The Artist,2011,Drama
@@ -2015,9 +2024,9 @@ In Darkness,2011,Drama
 Monsieur Lazhar,2011,Drama
 A Separation,2011,Drama
 War Horse,2011,War
-Sunday,2011,Animation
+Dimanche/Sunday,2011,Animation
 The Fantastic Flying Books of Mr. Morris Lessmore,2012,Adventure
-La luna,2012,Animation
+La Luna,2012,Animation
 A Morning Stroll,2011,Animation
 Wild Life,2011,Animation
 The Ides of March,2011,Drama
@@ -2036,7 +2045,7 @@ The Sessions,2012,Drama
 Brave,2012,Animation
 Frankenweenie,2012,Animation
 ParaNorman,2012,Family
-The Pirates! In an Adventure with Scientists!,2012,Animation
+The Pirates! Band of Misfits,2012,Animation
 Wreck-It Ralph,2012,Family
 Life of Pi,2012,Adventure
 Kon-Tiki,2012,Adventure
@@ -2045,8 +2054,8 @@ A Royal Affair,2012,Drama
 War Witch,2012,Drama
 Adam and Dog,2013,Animation
 Fresh Guacamole,2012,Animation
-Head Over Heels,2012,Family
-"Maggie Simpson in ""The Longest Daycare""",2012,Animation
+Head over Heels,2012,Family
+Maggie Simpson in \"The Longest Daycare\",2012,Animation
 Paperman,2012,Animation
 American Hustle,2013,Drama
 Nebraska,2013,Drama
@@ -2067,12 +2076,12 @@ The Broken Circle Breakdown,2012,Drama
 The Great Beauty,2013,Drama
 The Hunt,2013,Horror
 The Missing Picture,2013,Documentary
-Omar Killed Me,2011,Drama
+Omar,2011,Drama
 Her,2013,Romance
 Feral,2013,Horror
 Get a Horse!,2013,Animation
-Mr Hublot,2013,Animation
-D@bbe: The Possession,2013,Horror
+Mr. Hublot,2013,Animation
+Possessions,2013,Horror
 Room on the Broom,2012,Family
 Before Midnight,2013,Romance
 Foxcatcher,2014,Drama
@@ -2092,7 +2101,7 @@ Big Hero 6,2014,Adventure
 The Boxtrolls,2014,Animation
 How to Train Your Dragon 2,2014,Fantasy
 Song of the Sea,2014,Family
-The Tale of The Princess Kaguya,2013,Animation
+The Tale of the Princess Kaguya,2013,Animation
 The Grand Budapest Hotel,2014,Comedy
 Ida,2013,Drama
 Leviathan,1989,Adventure
@@ -2118,11 +2127,12 @@ Creed,2015,Drama
 Carol,2015,Romance
 Room,2015,Drama
 Joy,2015,Drama
+A War,2015,Drama
 45 Years,2015,Drama
 Brooklyn,2015,Romance
 The Hateful Eight,2015,Drama
 Anomalisa,2015,Animation
-Boy & the World,2014,Animation
+Boy and the World,2014,Animation
 Inside Out,2015,Animation
 Shaun the Sheep Movie,2015,Family
 When Marnie Was There,2014,Animation
@@ -2135,7 +2145,7 @@ Female War: A Nasty Deal,2015,Drama
 Bear Story,2015,Animation
 Prologue,2015,Action
 Sanjay's Super Team,2015,Animation
-We Can't Live Without Cosmos,2014,Animation
+We Can't Live without Cosmos,2014,Animation
 World of Tomorrow,2015,Animation
 Manchester by the Sea,2016,Drama
 Hacksaw Ridge,2016,Drama
@@ -2173,7 +2183,7 @@ Get Out,2017,Mystery
 Darkest Hour,2017,Drama
 "Roman J. Israel, Esq.",2017,Drama
 The Florida Project,2017,Drama
-"Three Billboards Outside Ebbing, Missouri",2017,Crime
+Three Billboards outside Ebbing,2017,Crime
 The Shape of Water,2017,Drama
 All the Money in the World,2017,Crime
 "I, Tonya",2017,Drama
@@ -2227,7 +2237,7 @@ One Small Step,2018,Family
 Weekends,2017,Animation
 The Ballad of Buster Scruggs,2018,Western
 Pain and Glory,2019,Drama
-Once Upon a Time... in Hollywood,2019,Comedy
+Once upon a Time...in Hollywood,2019,Comedy
 Marriage Story,2019,Drama
 Joker,2019,Crime
 The Two Popes,2019,Drama
@@ -2250,7 +2260,7 @@ Corpus Christi,2019,Drama
 Honeyland,2019,Documentary
 Les Misérables,2019,Crime
 Ford v Ferrari,2019,Drama
-Daughter,2019,Animation
+Dcera (Daughter),2019,Animation
 Hair Love,2019,Animation
 Kitbull,2019,Animation
 Memorable,2019,Animation
@@ -2267,7 +2277,7 @@ The United States vs. Billie Holiday,2020,Music
 Pieces of a Woman,2020,Drama
 Nomadland,2021,Drama
 Promising Young Woman,2020,Thriller
-Borat Subsequent Moviefilm,2020,Comedy
+Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,2020,Comedy
 Hillbilly Elegy,2020,Drama
 Onward,2020,Family
 Over the Moon,2020,Animation
@@ -2287,7 +2297,7 @@ Yes-People,2020,Animation
 Leopard Head Lin Chong 1: The White Tiger Hall,2019,War
 Being the Ricardos,2021,Drama
 The Power of the Dog,2021,Drama
-"tick, tick... BOOM!",2021,Drama
+tick tick...BOOM!,2021,Drama
 King Richard,2021,Drama
 The Tragedy of Macbeth,2021,Drama
 Belfast,2021,Drama
@@ -2311,7 +2321,7 @@ Don't Look Up,2021,Comedy
 Dune,2021,Science Fiction
 Nightmare Alley,2021,Crime
 Affairs of the Art,2021,Animation
-Beast,2022,Animation
+Bestia,2022,Animation
 Boxballet,2021,Animation
 Robin Robin,2021,Animation
 The Windshield Wiper,2021,Animation
@@ -2323,7 +2333,7 @@ Living,2022,Drama
 Causeway,2022,Drama
 The Fabelmans,2022,Drama
 Everything Everywhere All at Once,2022,Action
-TÁR,2022,Music
+Tár,2022,Music
 Blonde,2022,Drama
 To Leslie,2022,Drama
 Black Panther: Wakanda Forever,2022,Action
@@ -2355,7 +2365,7 @@ American Fiction,2023,Comedy
 Killers of the Flower Moon,2023,Crime
 Barbie,2023,Comedy
 Poor Things,2023,Science Fiction
-NYAD,2023,Drama
+Nyad,2023,Drama
 Anatomy of a Fall,2023,Thriller
 The Color Purple,2023,Drama
 The Boy and the Heron,2023,Animation
@@ -2372,7 +2382,7 @@ Past Lives,2023,Drama
 Letter to a Pig,2024,Animation
 Ninety-Five Senses,2023,Animation
 Our Uniform,2023,Animation
-Pachyderm,2024,Animation
+Pachyderme,2024,Animation
 WAR IS OVER! Inspired by the Music of John & Yoko,2023,Animation
 The Brutalist,2024,Drama
 A Complete Unknown,2024,Drama
@@ -2385,7 +2395,7 @@ Wicked,2024,Drama
 Emilia Pérez,2024,Drama
 The Substance,2024,Horror
 I'm Still Here,2024,Drama
-FLOW,2024,Animation
+Flow,2024,Animation
 Inside Out 2,2024,Animation
 Memoir of a Snail,2024,Animation
 Wallace & Gromit: Vengeance Most Fowl,2024,Family
